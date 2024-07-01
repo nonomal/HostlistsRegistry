@@ -1,10 +1,11 @@
 !
 ! Title: HaGeZi's DynDNS Blocklist
 ! Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
+! Version: 1.0.0.97
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-06-20T04:06:38.620Z
+! Last modified: 2024-07-01T12:09:40.105Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
 ! Source name: HaGeZi's DynDNS Blocklist
@@ -16,10 +17,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 19 Jun 2024 22:58 UTC
-! Version: 2024.0619.2258.28
+! Last modified: 29 Jun 2024 13:12 UTC
+! Version: 2024.0629.1312.11
 ! Syntax: AdBlock
-! Number of entries: 1455
+! Number of entries: 1446
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -180,7 +181,6 @@
 ||cbopelousas.com^
 ||cbu.net^
 ||cechire.com^
-||celebsplay.com^
 ||celltrak.mobi^
 ||centserver.com^
 ||cf.gs^
@@ -210,10 +210,8 @@
 ||cloudns.cc^
 ||cloudns.cl^
 ||cloudns.cx^
-||cloudns.net^
 ||cloudns.org^
 ||cloudns.pro^
-||cloudwatch.net^
 ||cloudxns.net^
 ||cmirg.com^
 ||cnstefancelmare.ro^
@@ -304,7 +302,6 @@
 ||diyplans.org^
 ||dlinkddns.com^
 ||dnet.hu^
-||dnmcoffman.com^
 ||dns.army^
 ||dns.navy^
 ||dns-auth.com^
@@ -829,7 +826,6 @@
 ||it-share.ro^
 ||itemdb.com^
 ||itsaol.com^
-||iu4ever.org^
 ||iugaming.com^
 ||ivc.cc^
 ||ix.tc^
@@ -899,7 +895,6 @@
 ||locumm.com^
 ||loginto.me^
 ||logisoft-cy.com^
-||logular.com^
 ||longmusic.com^
 ||loseyourip.com^
 ||lospenitentes.com^
@@ -937,7 +932,6 @@
 ||mine.bz^
 ||mine.nu^
 ||minecraftnoob.com^
-||minecraftpotato.com^
 ||minecraftr.us^
 ||mirolnet.com^
 ||misconfused.org^
@@ -1025,7 +1019,6 @@
 ||ndcg.com^
 ||neat-url.com^
 ||nedvighimost-sochi.ru^
-||nellopy.com^
 ||nerdcamp.net^
 ||nerdpol.ovh^
 ||net-freaks.com^
@@ -1297,7 +1290,6 @@
 ||srv64.de^
 ||srvdns.de^
 ||ssitech.bg^
-||ssl443.org^
 ||ssmailer.com^
 ||star.is^
 ||stemmetje.com^

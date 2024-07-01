@@ -1,16 +1,18 @@
 !
 ! Title: IRN: PersianBlocker list
 ! Description: Optimal and extensive list for blocking ads and trackers on Persian language sites
+! Version: 1.0.0.97
 ! Homepage: https://github.com/MasterKia/PersianBlocker
-! Last modified: 2024-06-23T20:06:43.869Z
+! Last modified: 2024-07-01T12:09:23.956Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
 ! Source name: PersianBlocker list
 ! Source: https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 !
 # >> A <<
+adtodate.ir
 adrooz.com
 affilio.ir
 analyt.ir
@@ -583,6 +585,9 @@ mogo-crypto.net
 
 # https://github.com/Webamoozcom/warning-list/discussions/174
 tinancefa.org
+
+# https://github.com/Webamoozcom/warning-list/discussions/184
+chancx.io
 
 # https://github.com/MasterKia/PersianBlocker/pull/201
 # https://webamooz.com/1402/06/25/%D9%84%D8%A7%DA%A9%D8%B3%D9%88%D9%86-laxxson-%DA%A9%D9%84%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%BE%D8%A7%D9%86%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA/

@@ -1,10 +1,11 @@
 !
 ! Title: SWE: Frellwit's Swedish Hosts File
 ! Description: List for blocking ads, tracking, scams & malware mainly on Swedish websites
+! Version: 1.0.0.97
 ! Homepage: https://github.com/lassekongo83/Frellwits-filter-lists/
-! Last modified: 2024-06-21T05:06:36.695Z
+! Last modified: 2024-07-01T12:09:23.738Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
 ! Source name: Frellwit's Swedish Hosts File
@@ -13,8 +14,8 @@
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-06-21 06:10:47 CEST
-# entries:        1073
+# last updated:   2024-07-01 05:42:40 CEST
+# entries:        1071
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 127.0.0.1 1terms.com
@@ -93,7 +94,6 @@
 127.0.0.1 adservice.google.se
 127.0.0.1 adservicemedia.dk
 127.0.0.1 adsettings.com
-127.0.0.1 adtomafusion.com
 127.0.0.1 adtr.io
 127.0.0.1 adtraction.com
 127.0.0.1 advert.livesportmedia.eu
@@ -527,7 +527,6 @@
 127.0.0.1 keenstockholm.com.se
 127.0.0.1 kiosked.com
 127.0.0.1 ksdarprt.reseguiden.se
-127.0.0.1 kyrkoskatten.se
 127.0.0.1 l.betrad.com
 127.0.0.1 l.sharethis.com
 127.0.0.1 lanapengar.expressen.se
@@ -700,6 +699,7 @@
 127.0.0.1 rum-reporter-prod.exp.bn.nr
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 runtnc.net
+127.0.0.1 s.cartbooster.io
 127.0.0.1 s.moatads.com
 127.0.0.1 s.ntv.io
 127.0.0.1 s.pubmine.com
@@ -849,7 +849,6 @@
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.refinery89.com
 127.0.0.1 tags.smilewanted.com
-127.0.0.1 tapet.bonniernews.se
 127.0.0.1 tb.de17a.com
 127.0.0.1 tcd.tourn.se
 127.0.0.1 telemetric.dk

@@ -1,10 +1,11 @@
 !
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
+! Version: 1.0.0.97
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-06-23T17:05:26.974Z
+! Last modified: 2024-07-01T12:09:23.613Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 0.0.0.0 admicro.vcmedia.com
 0.0.0.0 ad-hn.24hstatic.com
@@ -8382,6 +8383,7 @@
 0.0.0.0 pixnet-network-falcon.pixanalytics.com
 0.0.0.0 s.pixanalytics.com
 0.0.0.0 advividnetwork.com
+0.0.0.0 auto-load-balancer.advividnetwork.com
 0.0.0.0 rhea-cache.advividnetwork.com
 0.0.0.0 sun-cdn.advividnetwork.com
 0.0.0.0 sun.advividnetwork.com
@@ -11009,6 +11011,9 @@
 0.0.0.0 mnaspm.com
 0.0.0.0 creative.mnaspm.com
 0.0.0.0 go.mnaspm.com
+0.0.0.0 ankdoier.com
+0.0.0.0 click.eu.ankdoier.com
+0.0.0.0 tracking.eu.ankdoier.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.adtimaserver.vn
 0.0.0.0 log.adtimaserver.vn
@@ -12791,6 +12796,7 @@
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 support.tenten.vn
 0.0.0.0 sv-api-event.headlines.pw
+0.0.0.0 sv.isvn.space
 0.0.0.0 ta.toprework.vn
 0.0.0.0 tagging-qadkfoj6ha-as.a.run.app
 0.0.0.0 thongke.24h.com.vn
@@ -13918,6 +13924,7 @@
 0.0.0.0 ajvmagdalzz.com
 0.0.0.0 ak-ads-ns.prisasd.com
 0.0.0.0 ak.ceegriwuwoa.net
+0.0.0.0 ak.groaxonsoow.net
 0.0.0.0 ak.oneegrou.net
 0.0.0.0 ak0gsh40.com
 0.0.0.0 akjotpoxwp.com
@@ -14370,6 +14377,7 @@
 0.0.0.0 bcprm.com
 0.0.0.0 beabsolom.com
 0.0.0.0 beachinfinitegag.com
+0.0.0.0 beakerweedjazz.com
 0.0.0.0 beamincrease.com
 0.0.0.0 beastsmalefic.uno
 0.0.0.0 beatusalfred.guru
@@ -15106,6 +15114,7 @@
 0.0.0.0 csm.cxpublic.com
 0.0.0.0 csqghvpsx.com
 0.0.0.0 cst.cstwpush.com
+0.0.0.0 cswloxhjge.com
 0.0.0.0 ctiotjobkfu.com
 0.0.0.0 ctoosqtuxgaq.com
 0.0.0.0 ctubhxbaew.com
@@ -15701,6 +15710,7 @@
 0.0.0.0 fagovwnavab.com
 0.0.0.0 fagywalu.pro
 0.0.0.0 faidoud.com
+0.0.0.0 faisaphoofa.net
 0.0.0.0 faithiqs.com
 0.0.0.0 fajstasfubit.com
 0.0.0.0 fakeerupriser.com
@@ -16090,6 +16100,7 @@
 0.0.0.0 grozeesh.com
 0.0.0.0 grubsnuchale.com
 0.0.0.0 grudgewallet.com
+0.0.0.0 grunikpazp.com
 0.0.0.0 gruttumalda.com
 0.0.0.0 gryligkiznwe.com
 0.0.0.0 gscontxt.net
@@ -16613,6 +16624,7 @@
 0.0.0.0 jmaomkosxfi.com
 0.0.0.0 jmkujybdh.xyz
 0.0.0.0 jmrnews.pro
+0.0.0.0 jmt7mbwce.com
 0.0.0.0 jnrtavp2x66u.com
 0.0.0.0 joetec.net
 0.0.0.0 jogytuuey.com
@@ -16953,6 +16965,7 @@
 0.0.0.0 mabamsamxfp.com
 0.0.0.0 mabsargral.com
 0.0.0.0 mabtcaraqdho.com
+0.0.0.0 mabwuwhrugro.com
 0.0.0.0 machineattitudeace.com
 0.0.0.0 machogodynamis.com
 0.0.0.0 mackeeperapp.mackeeper.com
@@ -17446,6 +17459,7 @@
 0.0.0.0 nonstoppartner.net
 0.0.0.0 nootapsouth.com
 0.0.0.0 nothingmethod.com
+0.0.0.0 notifyerr.com
 0.0.0.0 notifysrv.com
 0.0.0.0 nougatdimetry.com
 0.0.0.0 novem.pl
@@ -17666,6 +17680,7 @@
 0.0.0.0 oqnabsatfn.com
 0.0.0.0 oqnfsivlp.com
 0.0.0.0 oqnghaofps.com
+0.0.0.0 oqnjfotketk.com
 0.0.0.0 oranegfodnd.com
 0.0.0.0 orangeads.fr
 0.0.0.0 orbsclawand.com
@@ -17768,6 +17783,7 @@
 0.0.0.0 ozqoztrkoaj.com
 0.0.0.0 ozsoekwgy.com
 0.0.0.0 ozwvkazrik.com
+0.0.0.0 p23hxejm1.com
 0.0.0.0 p4r24.eu
 0.0.0.0 pacekami.com
 0.0.0.0 padp5arja8dgsd9cha.com
@@ -17815,6 +17831,7 @@
 0.0.0.0 partners.priceline.com
 0.0.0.0 partnerstack.com
 0.0.0.0 pasbstbovc.com
+0.0.0.0 pasjcutadak.com
 0.0.0.0 passeura.com
 0.0.0.0 passfixx.com
 0.0.0.0 passion-4.net
@@ -18056,6 +18073,7 @@
 0.0.0.0 prinksoncotic.com
 0.0.0.0 privatecash.com
 0.0.0.0 privateleaflet.com
+0.0.0.0 priveeyou.it
 0.0.0.0 privy.com
 0.0.0.0 prmtracking.com
 0.0.0.0 pro-ads.club
@@ -18494,6 +18512,7 @@
 0.0.0.0 rotumal.com
 0.0.0.0 roughroll.com
 0.0.0.0 rounddescribe.com
+0.0.0.0 roundspaniardindefinitely.com
 0.0.0.0 rounuatedanximum.com
 0.0.0.0 routeserve.info
 0.0.0.0 rowthsti.com
@@ -18629,6 +18648,7 @@
 0.0.0.0 searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 searchramp.com
+0.0.0.0 secondquaver.com
 0.0.0.0 secretivecub.com
 0.0.0.0 secretspiders.com
 0.0.0.0 secure.webconnect.net
@@ -19394,6 +19414,7 @@
 0.0.0.0 trustlearningclearly.com
 0.0.0.0 truthful-quote.pro
 0.0.0.0 tsiwqtng8huauw30n.com
+0.0.0.0 tspivyuxoowva.com
 0.0.0.0 tstats-13fkh44r.com
 0.0.0.0 tsyndolls.com
 0.0.0.0 ttgmjfgldgv9ed10.com
@@ -19497,6 +19518,7 @@
 0.0.0.0 unreshiramor.com
 0.0.0.0 unseenreport.com
 0.0.0.0 unshornmislie.tech
+0.0.0.0 unsungpolicy.com
 0.0.0.0 untd.com
 0.0.0.0 unthem.com
 0.0.0.0 untidyquestion.com
@@ -19691,6 +19713,7 @@
 0.0.0.0 vuvbupanwo.com
 0.0.0.0 vuvcroguwtuk.com
 0.0.0.0 vuwmxjusucnh.com
+0.0.0.0 vxcaphujhns.com
 0.0.0.0 vyfrxuytzn.com
 0.0.0.0 vzizatjihca.com
 0.0.0.0 vzoarcomvorz.com
@@ -19971,9 +19994,11 @@
 0.0.0.0 www.trafyield.com
 0.0.0.0 www.tribedone.org
 0.0.0.0 www.trustaffs.com
+0.0.0.0 www.tspivyuxoowva.com
 0.0.0.0 www.uyunad.com
 0.0.0.0 www.vantagemarketads.com
 0.0.0.0 www.velocitycdn.com
+0.0.0.0 www.vxcaphujhns.com
 0.0.0.0 www.webtrendslive.com
 0.0.0.0 www.xadsmart.com
 0.0.0.0 www.zarpop.com
@@ -20768,6 +20793,7 @@
 0.0.0.0 stat.media
 0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.microvirt.com
+0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat2.openinstall.io
 0.0.0.0 stathat.com
 0.0.0.0 static-pixel.gliavideo.com

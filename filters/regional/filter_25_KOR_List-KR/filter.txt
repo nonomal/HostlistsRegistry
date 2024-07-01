@@ -1,10 +1,11 @@
 !
 ! Title: KOR: List-KR DNS
 ! Description: A DNS version of List-KR, a filter for websites in the Korean language
+! Version: 1.0.0.97
 ! Homepage: https://github.com/List-KR/List-KR
-! Last modified: 2024-05-29T05:06:37.660Z
+! Last modified: 2024-07-01T12:09:25.318Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
 ! Source name: List-KR 3rd_domains.txt
@@ -223,6 +224,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
 !

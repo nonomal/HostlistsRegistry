@@ -1,10 +1,11 @@
 !
 ! Title: MKD: Macedonian Pi-hole Blocklist
 ! Description: List for blocking ads on Macedonian websites
+! Version: 1.0.0.97
 ! Homepage: https://github.com/cchevy/macedonian-pi-hole-blocklist
-! Last modified: 2024-04-08T09:50:30.141Z
+! Last modified: 2024-07-01T12:09:24.117Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
 ! Source name: Macedonian Pi-hole Blocklist

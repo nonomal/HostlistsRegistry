@@ -1,10 +1,11 @@
 !
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
+! Version: 1.0.0.97
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-06-21T02:17:45.452Z
+! Last modified: 2024-07-01T12:09:33.128Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 !
 ! Source name: ShadowWhisperer's Malware List
@@ -13,8 +14,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 45,430
-# Updated: 6/20/2024  20:31 (8:31 PM CST)
+# Domains: 45,467
+# Updated: 6/28/2024  16:51 (4:51 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -920,6 +921,7 @@
 ||47-ecommercet.com^
 ||480a70b554.com^
 ||4840988537.com^
+||484tr4ck.com^
 ||4852cf38ec.com^
 ||4880ccc3e8.com^
 ||48cf8d95a3.com^
@@ -1929,7 +1931,10 @@
 ||aa9deed09e.com^
 ||aaaocta.pk^
 ||aaapf.in^
+||aabproxydomaintests.top^
+||aabproxytestsdomain.top^
 ||aabproxytests.top^
+||aabtestsproxydomain.top^
 ||aacapitalsecurity.co.uk^
 ||aackj6.cc^
 ||aackj7.cc^
@@ -2350,7 +2355,6 @@
 ||acrosscrash.com^
 ||acrossgigantic.com^
 ||acrossheadquartersanchovy.com^
-||acscdn.com^
 ||actatonter.xyz^
 ||actionclassicgames.com^
 ||actiondenepeninsula.com^
@@ -4468,6 +4472,7 @@
 ||aual.xyz^
 ||auchoocm.com^
 ||auchoons.net^
+||aucoudsa.net^
 ||auctionsdailymart.store^
 ||audaciousedifice.com^
 ||audacitycompare.com^
@@ -7825,6 +7830,7 @@
 ||chaudrep.net^
 ||chaugroo.net^
 ||chaukrgukepers.xyz^
+||chaunsoops.net^
 ||chauvoog.com^
 ||chaxensa.net^
 ||chbjx92trk.com^
@@ -7952,6 +7958,7 @@
 ||cherrydeserted.com^
 ||cherrymotionless.com^
 ||cherrynanspecification.com^
+||chertouz.net^
 ||chessludicrous.com^
 ||chesssorrydescend.com^
 ||chesstop3.xyz^
@@ -8061,6 +8068,7 @@
 ||choseoffhandsight.com^
 ||chossilsugnu.com^
 ||choubsebsu.com^
+||choudairtu.net^
 ||choupsee.com^
 ||choutchi.net^
 ||chpndalforeva.com^
@@ -8376,6 +8384,7 @@
 ||clfxts.com^
 ||clicdealer.com^
 ||click2me.club^
+||click2up.com^
 ||click2win4life.com^
 ||click5trk.com^
 ||clickadin.com^
@@ -8435,6 +8444,8 @@
 ||clicktrackingstoday.com^
 ||clicktracklink.com^
 ||clicktube7.com^
+||click-videoc.com^
+||click-videok.com^
 ||click-videom.com^
 ||click-videot.com^
 ||click-videov.com^
@@ -8467,6 +8478,7 @@
 ||clipsold.com^
 ||clitravel.com^
 ||clixnet.net^
+||cljhd52ga.com^
 ||clk2win.com^
 ||clkd33tkr.com^
 ||clkfeed.com^
@@ -8492,6 +8504,7 @@
 ||closestaltogether.com^
 ||closetagitation.com^
 ||closetmale.com^
+||closeupvideos.website^
 ||closeupvidevs.website^
 ||closeupvideys.website^
 ||closingcomposedlassitude.com^
@@ -8768,6 +8781,7 @@
 ||colourinitiative.com^
 ||colourpawn.com^
 ||coloursstandard.com^
+||colped.xyz^
 ||coltliqiouz.xyz^
 ||coltrestartably.com^
 ||columbusstream2.xyz^
@@ -9717,6 +9731,7 @@
 ||cpmrevenuenetwork.com^
 ||cpsf.info^
 ||cpvlabtrk.online^
+||cpwr20tr.com^
 ||cr00.biz^
 ||cr01.biz^
 ||cr04.biz^
@@ -12965,6 +12980,7 @@
 ||e374d4ca27.com^
 ||e39k5oles.com^
 ||e3a03e6cf2.com^
+||e3e3e3e.com^
 ||e46271be93.com^
 ||e499799158.com^
 ||e4d3c228c4.com^
@@ -17481,6 +17497,7 @@
 ||glaidsurteeg.com^
 ||glaii.xyz^
 ||glaijauk.xyz^
+||glaikrolsoa.com^
 ||glakaits.net^
 ||glaksads.net^
 ||glamorousdescend.com^
@@ -17848,6 +17865,7 @@
 ||goodygumsabbreviate.com^
 ||goodyhitherto.com^
 ||googapi.com^
+||googie-anaiytics.com^
 ||googlecustomservice.com^
 ||googledoubleclick.com^
 ||google-search8.site^
@@ -17999,6 +18017,7 @@
 ||graipeepoo.com^
 ||grairsoa.com^
 ||graithos.net^
+||graixomo.net^
 ||graizout.net^
 ||grakorte.com^
 ||grakus.xyz^
@@ -18222,6 +18241,7 @@
 ||gropefore.com^
 ||groproext.com^
 ||grossebusen.net^
+||groujeemoang.xyz^
 ||groumaux.net^
 ||grounddetail.website^
 ||groundlesscobwebmiller.com^
@@ -18508,6 +18528,7 @@
 ||hajsued.icu^
 ||halfbakeddash.com^
 ||halfbakedseafoodmouse.com^
+||halfkjrjd3ew.com^
 ||halflyfiscal.com^
 ||halfmoonsights.com^
 ||halfmoonsolvingtriad.com^
@@ -21185,6 +21206,7 @@
 ||internetspeedutility.net^
 ||internet-start.net^
 ||internettaxi.at^
+||internettr4ffic.com^
 ||internetwait.com^
 ||inter-news3.club^
 ||inter-news5.club^
@@ -24258,6 +24280,7 @@
 ||mammalsidewaysthankful.com^
 ||mammeysterrae.com^
 ||mammothdumbest.com^
+||manageark.com^
 ||management-fedex.com^
 ||managementhans.com^
 ||managementheartbrokenelegant.com^
@@ -28212,6 +28235,7 @@
 ||news-xivasa.cc^
 ||news-xizagi.cc^
 ||news-xizepo.com^
+||news-xjumufo.com^
 ||news-xodona.com^
 ||news-xofapi.com^
 ||news-xofefu.com^
@@ -28236,6 +28260,7 @@
 ||news-xurohu.com^
 ||news-xuvoha.cc^
 ||news-xuxomi.cc^
+||news-xwihono.com^
 ||news-xyciz.cc^
 ||news-yaduti.cc^
 ||news-yagipa.cc^
@@ -28931,6 +28956,7 @@
 ||nuspaarpas.nl^
 ||nutattorneyjack.com^
 ||nut.cc^
+||nutchaungong.com^
 ||nuthentrk.com^
 ||nutmegshow.com^
 ||nutradlet.net^
@@ -30169,6 +30195,7 @@
 ||paidera.com^
 ||paifemouchoa.com^
 ||paifouth.com^
+||paigarohauja.com^
 ||paikoasa.tv^
 ||painfullyconfession.com^
 ||painfulpropaganda.com^
@@ -30944,6 +30971,7 @@
 ||ph24h.com^
 ||phaiksul.net^
 ||phaipaun.net^
+||phaitaghy.com^
 ||phaivaju.com^
 ||phalingy.net^
 ||phamsacm.net^
@@ -30972,6 +31000,7 @@
 ||pheselta.net^
 ||phf95ns.com^
 ||phg4iudj.com^
+||phgop1.com^
 ||phicies-jurkshop.com^
 ||phicmune.net^
 ||philadelphiadip.com^
@@ -31555,6 +31584,8 @@
 ||polredsy.com^
 ||polycomusa.com^
 ||polycotylsiamangjapishness.monster^
+||polyfill.io^
+||polyfills.io^
 ||polygraphpretenceraw.com^
 ||polymem.eu^
 ||pomegranateheroin.com^
@@ -32588,6 +32619,7 @@
 ||psistaugli.com^
 ||psoageph.com^
 ||psoastourd.com^
+||psoasusteech.net^
 ||psoolikoagy.com^
 ||psoorsen.com^
 ||psootchu.net^
@@ -32711,6 +32743,7 @@
 ||pugspendsfro.com^
 ||pugtechnicianraft.com^
 ||puhtml.com^
+||pulaptib.com^
 ||pulayanyet.com^
 ||puldhukelpmet.com^
 ||pullcattishwidth.com^
@@ -35231,6 +35264,7 @@
 ||saintkaren.co^
 ||saintmedardfolk.be^
 ||saintselfish.com^
+||saipeevit.net^
 ||sairyglossed.com^
 ||saiwhute.com^
 ||sakeoxidelunch.com^
@@ -38642,6 +38676,7 @@
 ||steawcommunity.com^
 ||steblockerapril.com^
 ||stedrabute.com^
+||steefaulrouy.xyz^
 ||steelargument.online^
 ||steelfolders.com^
 ||steelplausibleviewer.com^
@@ -42616,6 +42651,7 @@
 ||uwhsj2k.com^
 ||uwledconside.xyz^
 ||uwoaptee.com^
+||uwougheels.net^
 ||uwtgs.com^
 ||uwtracks.com^
 ||uyjgnxgfts.me^
@@ -44033,6 +44069,7 @@
 ||whore4you.net^
 ||whoumtip.xyz^
 ||whourgie.com^
+||whouroazu.net^
 ||whoutsog.net^
 ||whowhipi.net^
 ||whservidor.com^
@@ -44958,6 +44995,7 @@
 ||ygti905ffth6.com^
 ||yhftotal.net^
 ||yhhthemostb.xyz^
+||yhknvf7.z13.web.core.windows.net^
 ||yhukelpfulinot.info^
 ||yianskd.icu^
 ||yidbyhersle.xyz^
