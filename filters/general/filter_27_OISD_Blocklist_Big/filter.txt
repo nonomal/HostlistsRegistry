@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.82
+! Version: 1.0.49.83
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-24T20:06:32.562Z
+! Last modified: 2025-03-24T22:06:05.568Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -8703,7 +8703,6 @@
 ||acerbatterieshop.fr^
 ||acerbityjessamy.com^
 ||acerbitylockdown.com^
-||acercanvasprintsfoundhere.com^
 ||acerd.ph^
 ||acerlipeptone.space^
 ||acermi.fr^
@@ -35439,7 +35438,6 @@
 ||bur-nn.ru^
 ||bur77.pro^
 ||burago.fr^
-||buralarneler.com^
 ||buram.xyz^
 ||buranadaily.com^
 ||burbarkholpen.com^
@@ -77388,7 +77386,6 @@
 ||greatlandfarms.com^
 ||greatleaguehoops.web.app^
 ||greatleg.com^
-||greatlifeinsurers.rocks^
 ||greatmedic.com^
 ||greatnessmuffled.com^
 ||greatnewcarpro.com^
