@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.84
+! Version: 1.0.49.85
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-24T23:06:18.117Z
+! Last modified: 2025-03-25T00:27:32.128Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -15988,6 +15988,7 @@
 ||alittleonlinetherapy.com^
 ||alitui.weibo.com^
 ||alivcd.com^
+||alive-airport.com^
 ||alive-like.com^
 ||alive-ua.com^
 ||aliveachiever.com^
@@ -24325,6 +24326,7 @@
 ||augenzentrum-luenen.de^
 ||auggtone.shop^
 ||aughableleade.info^
+||augheeshous.com^
 ||aughoomsoushy.com^
 ||auglysingar.hestafrettir.is^
 ||auglysingar.pipar.is^
@@ -36991,6 +36993,7 @@
 ||camaradecorregodoouro.go.gov.br^
 ||camaraitaguari.go.gov.br^
 ||camasdecks.com^
+||camassmastic.com^
 ||cambalacheando.com^
 ||cambalkoncum.net^
 ||cambanyc.com^
@@ -55323,6 +55326,7 @@
 ||dinfed.co^
 ||ding-a-ling-tel.com^
 ||dingbu.bj.bcebos.com^
+||dingebeek.com^
 ||dingerhoes.shop^
 ||dingge.cc^
 ||dinglewhiz.shop^
@@ -60677,6 +60681,7 @@
 ||ecuamercio.com^
 ||ecuaseguridad.com.ec^
 ||ecudisrush.live^
+||ecuelleribose.com^
 ||ecureappsstoree.onthewifi.com^
 ||ecusemis.com^
 ||ecutrack.com^
@@ -77664,6 +77669,7 @@
 ||grillmaxx24.com^
 ||grillomarketing.com^
 ||grillowaniemnie.beauty^
+||grillsmecon.com^
 ||grimor.org^
 ||grimytax.pro^
 ||grinbettyreserve.com^
@@ -81459,6 +81465,7 @@
 ||hexatrinity.com^
 ||hexcash.com^
 ||hexinemicerun.top^
+||hexingteeting.com^
 ||hexinx.com^
 ||hexpo.de^
 ||hexshine.com^
@@ -91340,6 +91347,7 @@
 ||jedstargames.com^
 ||jedynak.weebly.com^
 ||jedzeniomat.com^
+||jeedfinny.top^
 ||jeefaiwochuh.net^
 ||jeehathu.com^
 ||jeejujou.net^
@@ -104067,6 +104075,7 @@
 ||lululemonstore.net^
 ||lulumaga.mycartpanda.com^
 ||lulushe.com^
+||luluvdo.com^
 ||lum-i0e0r0e.com^
 ||luma-dreamai.com^
 ||lumaenergy.net^
@@ -112653,6 +112662,7 @@
 ||moontag.com^
 ||moonwish.com.cn^
 ||moooney02.serv00.net^
+||moophauglouhee.com^
 ||moopoachoarail.net^
 ||moopsazijop.com^
 ||moorebingosupplies.com^
@@ -127868,6 +127878,7 @@
 ||pennilesscomingall.com^
 ||pennilesspictorial.com^
 ||pennilesstestangrily.com^
+||penningnatraj.com^
 ||pennsylvaniasoberliving.com^
 ||pennsylvaniasoberliving.net^
 ||pennwellcorp.112.2o7.net^
@@ -155041,6 +155052,7 @@
 ||sloppycalculator.com^
 ||sloppyhoes.com^
 ||slopqwaseyer.com^
+||slorpeyes.top^
 ||slot.buyaiphoneonline.com^
 ||slot1004.com^
 ||slot898-games-online.com^
