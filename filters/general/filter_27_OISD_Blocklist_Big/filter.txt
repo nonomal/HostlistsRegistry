@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.85
+! Version: 1.0.49.86
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-25T00:27:32.128Z
+! Last modified: 2025-03-25T01:33:58.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -22266,6 +22266,7 @@
 ||asamaaaaaaaasmamsmansnansamnsmam.ubpages.com^
 ||asamira.duckdns.org^
 ||asamp.meelou.top^
+||asanalytics.booking.com^
 ||asanalyzer.com^
 ||asandcomemu.info^
 ||asanroque.com^
@@ -45047,6 +45048,7 @@
 ||config.appjolt.com^
 ||config.chsmarttv.com^
 ||config.com.de^
+||config.emb-api.com^
 ||config.getmyip.com^
 ||config.hockeyapp.net^
 ||config.inmobi.com^
@@ -46549,6 +46551,7 @@
 ||counters.auctionhelper.com^
 ||counters.auctionwatch.com^
 ||counters.auctiva.com^
+||counters.booking.com^
 ||counters.freewebs.com^
 ||counterweb.cn^
 ||countessrestrainasks.com^
@@ -52322,6 +52325,7 @@
 ||data.digitalks.az^
 ||data.econa.com^
 ||data.eetech.com^
+||data.emb-api.com^
 ||data.embeddables.com^
 ||data.eroadvertising.com^
 ||data.game.xiaomi.com^
@@ -81841,6 +81845,7 @@
 ||hilpert.amp-mobify.com^
 ||hilsaims.net^
 ||hiltanseen.net^
+||hilton.data.adobedc.net^
 ||hiltonhealthcenter.com^
 ||hiltonsh.com^
 ||hilyzye.com^
@@ -128954,6 +128959,7 @@
 ||phorma.ro^
 ||phormchina.com^
 ||phormlabs.com^
+||phorralut.com^
 ||phortaub.com^
 ||phoscal.net^
 ||phosphoric.no-ip.biz^
