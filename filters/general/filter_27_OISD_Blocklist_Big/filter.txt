@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.95
+! Version: 1.0.49.96
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-25T16:06:41.931Z
+! Last modified: 2025-03-25T17:05:55.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3817,7 +3817,6 @@
 ||49333767.xyz^
 ||49453k0l.vr.loveota.com^
 ||49453k0l.vs.loveota.com^
-||495.di9.one^
 ||49535.com^
 ||495559logowanie-logowanie.jdhs.pl^
 ||49706204.xyz^
@@ -5555,7 +5554,6 @@
 ||7900-logowania-nastepny.noahcze.eu^
 ||7900c936fb.com^
 ||790northsierrabonita.com^
-||791688a4.sbs^
 ||79180284.xyz^
 ||792749976985480-dot-wetransfer-auth-file-344.appspot.com^
 ||79391192.xyz^
@@ -7004,7 +7002,6 @@
 ||a0994456.xsph.ru^
 ||a0994622.xsph.ru^
 ||a0996099.xsph.ru^
-||a0a8053f14.com^
 ||a0b11.com^
 ||a0b22.com^
 ||a0b33.com^
@@ -22506,7 +22503,6 @@
 ||ask.maxfaxtalk.in^
 ||ask.toothlessapp.com^
 ||ask.tulingxueyuan.cn^
-||askard.victoriadaria.pl^
 ||askaspeechie.com.au^
 ||askayhotelsuites.com^
 ||askbankasi.com^
@@ -28417,7 +28413,6 @@
 ||bazdoufap.blogspot.com^
 ||bazepharmacy.ru^
 ||bazfinc.xyz^
-||bazi.kladiuszpawlik.pl^
 ||bazl.olled.xyz^
 ||bazlogistics.com^
 ||bazoucam.fr^
@@ -30238,7 +30233,6 @@
 ||bfb9bc6900.e92030d8b1.com^
 ||bfbb91d81c4a6d7d96cf737f65fdda01.fjao.pl^
 ||bfbfkhz.cc^
-||bfd8690b.xyz^
 ||bfdcdn.com^
 ||bfemail.com^
 ||bfestrahenstre.firebaseapp.com^
@@ -41334,7 +41328,6 @@
 ||chronopost-secure.fr^
 ||chronopost-securite.fr^
 ||chronopost-serviceclient.fr^
-||chronopost-suivi-colis.fr^
 ||chronopost-suivis-colis.fr^
 ||chronopost-suivit.fr^
 ||chronopost-suivrecolis.fr^
@@ -46496,7 +46489,6 @@
 ||countly.iyzico.com^
 ||countly.virgool.io^
 ||countonnutrition.com^
-||countpage.sznews.com^
 ||countpvn.light.fang.com^
 ||countries-allowed.gl.at.ply.gg^
 ||countries-discovery.gl.at.ply.gg^
@@ -51839,7 +51831,6 @@
 ||dalpian.com^
 ||dalsksafksdlgskgdkhdfkfhdflhkdkkdrt.rodeo^
 ||daltailtaux.net^
-||dalton.alekssokalski.nieruchomosci.pl^
 ||daltongrievously.com^
 ||daltontrail.com^
 ||dalyai.com^
@@ -52514,7 +52505,6 @@
 ||davidpeterkerr.com^
 ||davids.club^
 ||davidschirm.com^
-||davidsiktberg.com^
 ||davidslimak.com^
 ||davidspanos.com^
 ||davidtepfer.com^
@@ -54679,7 +54669,6 @@
 ||dhsunfhbi.web.app^
 ||dhtech.ae^
 ||dhthrewdownth.com^
-||dhtr-erfi.cfd^
 ||dhuimjkivb.com^
 ||dhujgduv.com^
 ||dhurkotcms.tunatechnology.com^
@@ -62701,7 +62690,6 @@
 ||enginekeyzz.ddns.net^
 ||enginenetwork.com^
 ||engineplay.com^
-||enginescout.com^
 ||engineseeker.com^
 ||enginhukuk.org^
 ||english-br.com^
@@ -77513,7 +77501,6 @@
 ||grf.easyhash.io^
 ||grfpr.com^
 ||grfx.mp3.com^
-||grg-brevard.online^
 ||grgnsht.nzxt.com^
 ||grhjojbk.com^
 ||grianogertechs.com^
@@ -82761,7 +82748,6 @@
 ||homepaiement-pl-16f9b0fb.arw-rohstoffhandel.com^
 ||homepaiement-pl-258fd91f.arw-rohstoffhandel.com^
 ||homepay-pl-48d33c44.rpm-technik.at^
-||homepdfviewer.blob.core.windows.net^
 ||homepjlconline.com.112.2o7.net^
 ||homepl-poczta.serwer10282.com^
 ||homepll.co.in^
@@ -107375,7 +107361,6 @@
 ||maya-aztec.com^
 ||maya15.site^
 ||mayadeepgroup.com^
-||mayanabeauty.com^
 ||mayancasino.com^
 ||mayaorganization.org^
 ||maybe-your.gl.at.ply.gg^
@@ -111724,7 +111709,6 @@
 ||modernjsonxml.com^
 ||modernkeys.org^
 ||modernmatemastery.com^
-||modernmhake.shop^
 ||modernofficefurniture.in^
 ||modernopportunities.com^
 ||modernresearch.org^
@@ -112223,7 +112207,6 @@
 ||monetover.site^
 ||monetrixor.com^
 ||monetstarr.com^
-||monettagroup.com^
 ||moneuvre.fr^
 ||monex.sispro.mx^
 ||monexterieur-jardin.com^
@@ -121593,7 +121576,6 @@
 ||olx-pl.bezpieczna-dostawa.click^
 ||olx-pl.bezpieczna-transakcja.info^
 ||olx-pl.blossomtulip.cfd^
-||olx-pl.bqesazer.shop^
 ||olx-pl.cnaelia.sbs^
 ||olx-pl.cskielof.cfd^
 ||olx-pl.dcleosla.cfd^
@@ -130102,7 +130084,6 @@
 ||plas-ischeck.ubpages.com^
 ||plasdadowalniya.sa.com^
 ||plasma-wallet.webflow.io^
-||plasmaclap.click^
 ||plasmatv4free.com^
 ||plasmsmolochs.shop^
 ||plast-holders.com^
@@ -147773,7 +147754,6 @@
 ||sandrabalan.com^
 ||sandramosquedamx.com^
 ||sandrapaynecoach.com^
-||sandro-france.fr^
 ||sandstrophies.com^
 ||sandsxieboplu.top^
 ||sandvikgroup.net^
@@ -153232,7 +153212,6 @@
 ||shrewdcrumple.com^
 ||shrewsberry161.wixstudio.io^
 ||shrhw.mypi.co^
-||shriadhbhootnath.com^
 ||shriconstruction.com^
 ||shriekdestitute.com^
 ||shrif-e59c95.ingress-earth.ewp.live^
@@ -158268,7 +158247,6 @@
 ||ssbfdq.blogspot.ch^
 ||ssbo98omin.rr.nu^
 ||ssc567.com^
-||sscapinoo.shop^
 ||ssccglapex.com^
 ||sscefsol.com^
 ||sscheduler.s3.ap-east-1.amazonaws.com^
@@ -170839,7 +170817,6 @@
 ||trafficfarm.de^
 ||trafficforce.com^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
-||trafficgamechanger.com^
 ||trafficglobe.com^
 ||trafficgrowth.com^
 ||traffichaus.com^
@@ -172838,7 +172815,6 @@
 ||turbonews.biz^
 ||turbopaydayloan.com^
 ||turbopromo.com.br^
-||turboreturn.com^
 ||turboslotbulten.com^
 ||turbostats.xyz^
 ||turbotubes.cl^
@@ -175821,7 +175797,6 @@
 ||uscc.ua^
 ||uscentral301.accountservergroup.com^
 ||uscurrentlyattmails.weebly.com^
-||usdcbnb.cc^
 ||usdepttreasury.org^
 ||usdg.mqfcwtnr.top^
 ||usdm.122.2o7.net^
@@ -178749,7 +178724,6 @@
 ||vinted-pl-lzlxo.todaydeals.shop^
 ||vinted-pl.belenet.shop^
 ||vinted-pl.check-buy177.shop^
-||vinted-pl.check-buy178.shop^
 ||vinted-pl.dostawa-id.live^
 ||vinted-pl.gordera.com^
 ||vinted-polska-rr124.advouf.top^
@@ -179993,7 +179967,6 @@
 ||vpsnnog.ddns.net^
 ||vpssieusi.com^
 ||vpsswebjiechuc.shop^
-||vpsswebjiechue.shop^
 ||vptbn.com^
 ||vpuaklat.com^
 ||vpvmrmin.life^
@@ -180459,7 +180432,6 @@
 ||w1pid0c9qfmf7it53ap7blsi.makeupgap.com^
 ||w1vkt90etm69g8mrip5ts814.readfinancenewsnow.com^
 ||w2-geiuhsewhoictwuhetiuhwie.cloudd1.workers.dev^
-||w2.ij5.cc^
 ||w22-fghkdjgkvdfhgvdfkgss.joy-hughes.workers.dev^
 ||w22posemrb74bi01j42t7nfs.moviescapess.com^
 ||w23eidn9j.com^
@@ -185688,7 +185660,6 @@
 ||wszystko.biz^
 ||wt-tmp-1.top^
 ||wt.lovfot.ru^
-||wt.n9g.cc^
 ||wt.soundestlink.com^
 ||wt.viagogo.net^
 ||wt07m79mihpidet53s5n7a12.makeupgrok.com^
