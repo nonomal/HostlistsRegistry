@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.86
+! Version: 1.0.49.87
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-25T01:33:58.702Z
+! Last modified: 2025-03-25T05:06:55.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -7374,7 +7374,6 @@
 ||a64904.flymetothevenus.com^
 ||a64lmglobal.112.2o7.net^
 ||a6522.s3-website-us-east-1.amazonaws.com^
-||a6702d0cf06b5942f9dbbcbce44b4055.groupsorlink.com^
 ||a67c5c438d.com^
 ||a67d12.xyz^
 ||a68.paidtomoney.com^
@@ -7562,7 +7561,6 @@
 ||aakarcontainers.com^
 ||aakonsecurity.com^
 ||aaktrade.com^
-||aalegro.com^
 ||aaliceadsl.fr^
 ||aaltobandi.net^
 ||aalures.com^
@@ -18915,7 +18913,6 @@
 ||andersoninc.biz^
 ||andersonparkmotel.co.nz^
 ||andersonrestaurants.com^
-||andevoskolly.click^
 ||andhappiness.com^
 ||andhghtyjdf.firebaseapp.com^
 ||andhghtyjdf.web.app^
@@ -28248,7 +28245,6 @@
 ||basic-statuses-212850.framer.app^
 ||basicallyspacecraft.com^
 ||basicframework.fr^
-||basicpupil.best^
 ||basictreadcontract.com^
 ||basicwhenpear.com^
 ||basik.leonfabian.pl^
@@ -30874,7 +30870,6 @@
 ||binamluscase.cyou^
 ||binancc.com^
 ||binance-bedring.com^
-||binance-declared.com^
 ||binance-exchange.do.am^
 ||binance-invest.web.app^
 ||binance.auction^
@@ -36519,7 +36514,6 @@
 ||c5s.58bu.sbs^
 ||c6.edgesuite.net^
 ||c6.friok.com^
-||c6.lg9.cc^
 ||c6.statcounter.com^
 ||c615.denverpost.com^
 ||c619.paidtomoney.com^
@@ -42839,7 +42833,6 @@
 ||closecall.us^
 ||closecaption.duckdns.org^
 ||closedpersonify.com^
-||closedsoonest.click^
 ||closefly.com^
 ||closeremote.com^
 ||closerfoster.xyz^
@@ -44211,7 +44204,6 @@
 ||com-etc-bbxl.vip^
 ||com-etc-bbxm.vip^
 ||com-etc-bbzq.vip^
-||com-etcxaaaj.vip^
 ||com-etcxaaal.vip^
 ||com-etcxaaaq.vip^
 ||com-ho.me^
@@ -60720,7 +60712,6 @@
 ||edacityedacitystrawcrook.com^
 ||edadmy.xyz^
 ||edaightutaitlastwe.info^
-||edalloverwiththinl.info^
 ||edanlacey.com^
 ||edarah.com.eg^
 ||edatasales.com^
@@ -69032,7 +69023,6 @@
 ||fishyshortdeed.com^
 ||fisipa.com.ar^
 ||fisnemnd.odoo.com^
-||fistevasionjoint.com^
 ||fistofzeus.com^
 ||fit.golf^
 ||fit.sspamedia.com^
@@ -76031,7 +76021,6 @@
 ||goddessofsovereignty.com^
 ||goddessvip.com^
 ||godeaug.org^
-||godenhorse.com^
 ||godfaetret.com^
 ||godforsakensubordinatewiped.com^
 ||godigiads.com^
@@ -84245,7 +84234,6 @@
 ||human-verify-4r.pro^
 ||human-verify-7u.pages.dev^
 ||human-verify.shop^
-||humanaevitaemovie.com^
 ||humananimalschool.com^
 ||humanclick.com^
 ||humancoach.com^
@@ -86953,7 +86941,6 @@
 ||inalzlo.top^
 ||inamax.fr^
 ||inamerica.top^
-||inamiaaglow.life^
 ||inanci.top^
 ||inaneamenvote.com^
 ||inaneoti.top^
@@ -87878,7 +87865,6 @@
 ||injuryglidejovial.com^
 ||injustice.site^
 ||ink555.com^
-||ink7i9yf.life^
 ||inkbook-polska1.myfreesites.net^
 ||inkdesi.com^
 ||inkeast.top^
@@ -93358,7 +93344,6 @@
 ||justifiedcramp.com^
 ||justinbezanson.com^
 ||justinchamnessinsurance.com^
-||justincook.xyz^
 ||justjav11.fun^
 ||justjess.com.au^
 ||justlikeapro.com^
@@ -97110,7 +97095,6 @@
 ||kumaion.top^
 ||kumaish.xyz^
 ||kumaize.xyz^
-||kumarjewel.com^
 ||kumarrr.no-ip.org^
 ||kumasini.com.de^
 ||kumiai-chemgroup.com^
@@ -97187,7 +97171,6 @@
 ||kursdollara.f-noks.info^
 ||kursusestetika.net^
 ||kurtangle082.publicvm.com^
-||kurtgreenacre.com^
 ||kurtrimbach.com^
 ||kurumaventures.com^
 ||kurventourer-sauerland.com^
@@ -110777,7 +110760,6 @@
 ||mininews.kpzip.com^
 ||mining711.com^
 ||miningbase.cloud^
-||miningco.site^
 ||miningera.com^
 ||miningonevaccination.com^
 ||miningzhizhong.top^
@@ -112748,7 +112730,6 @@
 ||morenamodas.com^
 ||morenewmedia.com^
 ||morenews1.net^
-||morenews3.net^
 ||morenews4.net^
 ||morenmor.com^
 ||morenonfictiondiscontent.com^
@@ -115535,7 +115516,6 @@
 ||name-kw-papua-booking.trycloudflare.com^
 ||name-olx.live-link.shop^
 ||name-perception.gl.at.ply.gg^
-||name.doxapolis.com^
 ||nameads.com^
 ||nameboyz.com^
 ||namebuypicture.cn^
@@ -123320,7 +123300,6 @@
 ||operacionis.com^
 ||operaharvestrevision.com^
 ||operakeyboardhindsight.com^
-||operarymishear.store^
 ||operasdeparis.fr^
 ||operaserver.com^
 ||operateoxasi.top^
@@ -130762,7 +130741,6 @@
 ||plungecarbon.com^
 ||plungedcandourbleach.com^
 ||plupdatewp.netlify.app^
-||pluralmurraro.com^
 ||plus-alphaa.com^
 ||plus-colleg.de^
 ||plus-de-cadeau.fr^
@@ -132021,7 +131999,6 @@
 ||popcorn-flix.fr^
 ||popcorn.net^
 ||popcornflix-streaming.fr^
-||popcornradar.com^
 ||popcorntime.com.br^
 ||popcornvod.co^
 ||popcpm.com^
@@ -145137,7 +145114,6 @@
 ||rogunix.com^
 ||rohdechaussures.fr^
 ||rohelpdesk.com^
-||rohinvestments.com^
 ||rohisuperfoods.com^
 ||rohit8289.github.io^
 ||rohitshukla.com^
@@ -146194,7 +146170,6 @@
 ||rtpbigdewa.com^
 ||rtpboyslot.com^
 ||rtpbslot.com^
-||rtpcandu777.com^
 ||rtpgoslot.com^
 ||rtpjebolgacor88.com^
 ||rtpkaskus4d.com^
@@ -151529,7 +151504,6 @@
 ||service-msmsorange.gator.site^
 ||service-notifications.fr^
 ||service-operateur.fr^
-||service-opposition.fr^
 ||service-orange-bank.fr^
 ||service-orange.myfreesites.net^
 ||service-premium.fr^
@@ -174401,7 +174375,6 @@
 ||ukhiamkhdigxtbp-dot-charming-sky-2700.appspot.com^
 ||ukhotnews.com^
 ||ukindwouldmeu.com^
-||ukizeiasninan.info^
 ||ukkiftx.icu^
 ||uklidovka.eu^
 ||uklorme.fun^
@@ -183822,7 +183795,6 @@
 ||whhasymvi.com^
 ||whhxx.com^
 ||whiboubs.com^
-||whiceega.com^
 ||whichcandiedhandgrip.com^
 ||whichoogloabsa.net^
 ||whidbeyprovider.com^
@@ -186824,7 +186796,6 @@
 ||xajzfwgs.com^
 ||xakey.com^
 ||xalatlaco.org^
-||xalienstreamx.com^
 ||xalzny.xyz^
 ||xama44.com^
 ||xameleonads.com^
@@ -191754,7 +191725,6 @@
 ||zwnet.org^
 ||zwnoeqzsuz.com^
 ||zws.avvo.com^
-||zwwvlvewftyi.com^
 ||zwyczajludzi.click^
 ||zwyechsms.com^
 ||zwyjpyocwv.com^
