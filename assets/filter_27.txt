@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.92
+! Version: 1.0.49.93
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-25T12:10:25.060Z
+! Last modified: 2025-03-25T13:12:18.221Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -13943,7 +13943,6 @@
 ||afflatebog.top^
 ||afflictionevilorganized.com^
 ||afflictionlawcommemorate.com^
-||affluenceseptember.com^
 ||affluentarmyequator.com^
 ||affluentcompere.com^
 ||affluentretinueelegance.com^
@@ -23097,7 +23096,6 @@
 ||atendim248.sslblindado.com^
 ||atendimen-online5.uni5.net^
 ||atendiment-onlin2.kinghost.net^
-||atendimento-cgd.com^
 ||atendimento-online.kinghost.net^
 ||atendimentoitaupj.com^
 ||ateneasystem.com^
@@ -23233,7 +23231,6 @@
 ||atmtaoda.com^
 ||atmulti.com^
 ||atmut.fr^
-||atnightathletic.com^
 ||atnimanvilla.com^
 ||atnpx.com^
 ||ato.tooopen.com^
@@ -51463,7 +51460,6 @@
 ||dabrefololokiffe.web.app^
 ||dabyg.com^
 ||dabyiyaeldljvfu.pages.dev^
-||dac.thenewgrind.com^
 ||dacasahomes.com^
 ||dacash.streamplay.to^
 ||daccompanied.org^
@@ -53313,7 +53309,6 @@
 ||deepsixmarketing.com^
 ||deepskyblue-walrus-921670.hostingersite.com^
 ||deeptack.com^
-||deepuniverse.space^
 ||deepuniversestudies.online^
 ||deepvion.info^
 ||deepwater-design.com^
@@ -68760,7 +68755,6 @@
 ||finvestree.com^
 ||finzzmon.xyz^
 ||fiocchidiriso.com^
-||fionasteel.com^
 ||fiordmoss.ddns.net^
 ||fiorenetwork.com^
 ||fiorentcamcycle.redirectme.net^
@@ -75783,7 +75777,6 @@
 ||go.clicknplay.to^
 ||go.coralreefs.xyz^
 ||go.coralsands.xyz^
-||go.dnivergo.sbs^
 ||go.domnkpost.cc^
 ||go.dreamysoapbubbles.sbs^
 ||go.eltonain.sbs^
@@ -112833,7 +112826,6 @@
 ||motorsportsmerchandise.com^
 ||motoruniverse.com^
 ||motorworldsale.com^
-||motosalicante.com^
 ||motovinreports.com^
 ||motphimqq.pro^
 ||motricity.com^
@@ -116768,7 +116760,6 @@
 ||netwide-gaming.com^
 ||netwin66wow.duckdns.org^
 ||netwire202.duckdns.org^
-||netwiresl.duckdns.org^
 ||netwoksurveys.com^
 ||network-shakespeare.gl.at.ply.gg^
 ||network.ad.nu^
@@ -121653,7 +121644,6 @@
 ||olx-pl.emiliden.cfd^
 ||olx-pl.enp.su^
 ||olx-pl.ermonika.cfd^
-||olx-pl.fkiopen.cfd^
 ||olx-pl.florapetal.cfd^
 ||olx-pl.gaedtob.cfd^
 ||olx-pl.gaptivel.cfd^
@@ -123283,7 +123273,6 @@
 ||oppositeoperation.com^
 ||opposition-cb.fr^
 ||opposition-dossier.com^
-||oppositionoperation.fr^
 ||opposs.com^
 ||oppoteammate.com^
 ||oppressiontheychore.com^
@@ -148013,7 +148002,6 @@
 ||saofrancisco.net^
 ||saojq.yt^
 ||saon.info^
-||sap-sync.com^
 ||sap.wetss.xyz^
 ||sapagetlevelslaslasomothiskindshegenoevengoodtoex.pages.dev^
 ||sapanoq.info^
@@ -161159,7 +161147,6 @@
 ||strekhost2058.duckdns.org^
 ||strekhost2068.duckdns.org^
 ||strekhost2069.duckdns.org^
-||strekhost2070.duckdns.org^
 ||strekhost2073.duckdns.org^
 ||strekhost2074.duckdns.org^
 ||strekhost2075.duckdns.org^
@@ -163666,7 +163653,6 @@
 ||szalagavato.gyori.sk^
 ||szamlazasi-zona-flix.com^
 ||szararzeczywistosc.click^
-||szbangjie.cn^
 ||szbdyd.com^
 ||szbhb.cn^
 ||szbpf.cn^
@@ -173310,7 +173296,6 @@
 ||two-hitchhikers.ru^
 ||two.buson.in^
 ||two.tracedock.com^
-||two.wangwangwang.store^
 ||twoandhalfyear.ws^
 ||twoboo.com^
 ||twodemo.com^
@@ -176343,7 +176328,6 @@
 ||uts.auction.co.kr^
 ||uts.gmarket.co.kr^
 ||utsgw.auction.co.kr^
-||utspjfbpso.duckdns.org^
 ||utsssl.auction.co.kr^
 ||utt.impactcdn.com^
 ||uttambuildcon.com^
@@ -179965,7 +179949,6 @@
 ||voutew.com^
 ||vovpro.ru^
 ||vovsigorta.com^
-||vow.ltfq.one^
 ||vowelparttimegraceless.com^
 ||vowolaa.info^
 ||vox-voice.com^
@@ -183285,7 +183268,6 @@
 ||wetransconect-71216.firebaseapp.com^
 ||wetransconect-71216.web.app^
 ||wetransfe.fr^
-||wetransfer73927.blob.core.windows.net^
 ||wetransferdownload.fr^
 ||wetransfers.fr^
 ||wetransfersecureshare.mybluemix.net^
