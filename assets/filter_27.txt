@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.88
+! Version: 1.0.49.89
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-25T06:09:00.140Z
+! Last modified: 2025-03-25T08:08:19.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9188,7 +9188,6 @@
 ||ad-creative.pstatic.net^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||ad-delivery.net^
-||ad-distributorsstore.top^
 ||ad-download.hismarttv.com^
 ||ad-emea.doubleclick.net^
 ||ad-exchange.toast.com^
@@ -12318,7 +12317,6 @@
 ||ads3.realcities.com^
 ||ads3.tenping.kr^
 ||ads3.videy.co^
-||ads3.virtual-nights.com^
 ||ads3.webdrive.no^
 ||ads360.cn^
 ||ads360.com^
@@ -14475,7 +14473,6 @@
 ||ah-scanning.oss-cn-hongkong.aliyuncs.com^
 ||ah-your.com^
 ||ah.yimg.jp^
-||ah5.einjn.cfd^
 ||ah5.g1o9.lat^
 ||ah5a65ytg.square.site^
 ||ahaber.com^
@@ -19269,7 +19266,6 @@
 ||annanews.de^
 ||annanninc.ms-ann.com^
 ||annantapharmaceuticals.com^
-||annaoj.romanhubert.pl^
 ||annapapazian.com^
 ||annapoliscabinets.com^
 ||annaromeo.com^
@@ -21916,7 +21912,6 @@
 ||arquitettar.com^
 ||arquivo.dynns.com^
 ||arraiaame.sslblindado.com^
-||arrangementhang.com^
 ||arrangementsfilter.com^
 ||arration.com^
 ||arraysurvivalcarla.com^
@@ -32966,7 +32961,6 @@
 ||booking-com.property-047821.shop^
 ||booking-com.property-047826.homes^
 ||booking-com.property-047826.lol^
-||booking-com.property-047826.shop^
 ||booking-com.property-084234.homes^
 ||booking-com.property-084234.pics^
 ||booking-com.property-084274.homes^
@@ -33598,7 +33592,6 @@
 ||boyunakylie.com^
 ||boywhowascr.info^
 ||boyxu.cn^
-||boz.wetss.xyz^
 ||bozamui.com^
 ||bozari.com^
 ||bozhihua.com^
@@ -34612,7 +34605,6 @@
 ||brygella.com^
 ||bryny.xyz^
 ||bryond.com^
-||brysia.bartoszstolarski.com.pl^
 ||brznetwork.com^
 ||brzydulka.leonfabian.pl^
 ||bs-03-6743-2266.net^
@@ -40639,7 +40631,6 @@
 ||check.ngrdr.icu^
 ||check.nqzhn.icu^
 ||check.oegebo.icu^
-||check.ohuxah.icu^
 ||check.oibupi.icu^
 ||check.oiwea.site^
 ||check.opie6.icu^
@@ -42887,7 +42878,6 @@
 ||cloud9baskets.com^
 ||cloudad.asia^
 ||cloudads-a.akamaihd.net^
-||cloudads.net^
 ||cloudbeam.openm.ist^
 ||cloudbox-storage.com^
 ||cloudcdn.gdn^
@@ -54710,7 +54700,6 @@
 ||dhlinfo-arrivages.fr^
 ||dhlogistics.pl^
 ||dhlonboarding.com^
-||dhlsan.top^
 ||dhlservice.fr^
 ||dhn-ads-api.365scores.com^
 ||dhnconstrucciones.com.ar^
@@ -55304,7 +55293,6 @@
 ||dinfed.co^
 ||ding-a-ling-tel.com^
 ||dingbu.bj.bcebos.com^
-||dingebeek.com^
 ||dingerhoes.shop^
 ||dingge.cc^
 ||dinglewhiz.shop^
@@ -60589,7 +60577,6 @@
 ||ecomrz.com^
 ||ecomuful.de^
 ||econdoned.com^
-||econenectedith.info^
 ||econews.articledd.com^
 ||economic-day.mediareard.com^
 ||economic-gaz.energympt.com^
@@ -68926,7 +68913,6 @@
 ||firstcoltd.com^
 ||firstdayz.info^
 ||firstdomain.space^
-||firstdwarf.com^
 ||firstendpoint.com^
 ||firstfinancesllc.com^
 ||firstfitschool.com^
@@ -75939,7 +75925,6 @@
 ||goatse.cx^
 ||goatsnulls.com^
 ||goautofinance.com^
-||goautohub.com^
 ||goawos.com^
 ||gob.pe.serpost.ostescana.com^
 ||gobaan.com^
@@ -78634,7 +78619,6 @@
 ||gvtawzpydsujep.com^
 ||gvu.dyrm.one^
 ||gvudgv.weebly.com^
-||gvwck.cn^
 ||gvwsieawhk.duckdns.org^
 ||gvx.nsm.mybluehost.me^
 ||gvxc7e.gow.englishwoodlands.co.uk^
@@ -80366,7 +80350,6 @@
 ||healthwellnessrx.com^
 ||healthwithfun.com^
 ||healthy-challenge.in.ua^
-||healthy-deemed-essays-opens.trycloudflare.com^
 ||healthy-events.de^
 ||healthy-inside.pro^
 ||healthy-life.live^
@@ -86756,7 +86739,6 @@
 ||impressioncheerfullyswig.com^
 ||impressionmedia.cz^
 ||impressionpapeterie.com^
-||impressivecontinuous.com^
 ||impressivepail.com^
 ||impressivewhoop.com^
 ||impressoras-cartoes.com.pt^
@@ -95395,7 +95377,6 @@
 ||klaysisconsulting.com^
 ||klazzy.shop^
 ||klcejhfgtywuiopkwmoui.pages.dev^
-||klcmu5e3.life^
 ||klcp02.com^
 ||kldjd.weebly.com^
 ||kldmm.com^
@@ -98877,7 +98858,6 @@
 ||leaght341.th2mbxzqe.com^
 ||leagirr--com-start.webflow.io^
 ||leagleconsulting.com^
-||leaglolmo.info^
 ||league-gamers.com^
 ||league1.maoyuncloud.cn^
 ||leaguecitykitchenremodeling.com^
@@ -113120,7 +113100,6 @@
 ||mpgrobalseq.firebaseapp.com^
 ||mpgrobalseq.web.app^
 ||mph.m9rx.icu^
-||mphb0.com^
 ||mphhqaw.com^
 ||mphkwlt.com^
 ||mphlabs.ddns.net^
@@ -128302,7 +128281,6 @@
 ||petrales.info^
 ||petrelbeheira.website^
 ||petrellafindscars.com^
-||petrellafindspets.com^
 ||petrellafindswatches.com^
 ||petrifacius.com^
 ||petrjanicek.savana-hosting.cz^
@@ -143341,7 +143319,6 @@
 ||reprogrammation-mondialcolis.com^
 ||reprogrammer-moncolis.com^
 ||reproio.com^
-||repsandresults.com^
 ||reptamhab.shop^
 ||reptile.o-lit.fr^
 ||reptile.sat.trading^
@@ -145351,7 +145328,6 @@
 ||rosk.com^
 ||rosks.duckdns.org^
 ||roslandfrance.fr^
-||rosnacemedia.click^
 ||rosnctgwblg.com^
 ||rosolicdalapon.com^
 ||rossarnold.info^
@@ -145756,7 +145732,6 @@
 ||rscilnmkkfbl.com^
 ||rsdagpbpjdnd.com^
 ||rsdicing.com^
-||rsdpg.cn^
 ||rsdsuperindia.com^
 ||rse.tigocloudbo.com^
 ||rseu.activdep.top^
@@ -148318,7 +148293,6 @@
 ||saudiday.org^
 ||saudigeriatrics.org^
 ||saudinationaloil.com^
-||saudinationaloilcompany-uae.net^
 ||saudinationaloilcompany.com^
 ||saudioilandgas-uae.net^
 ||sauen.info^
@@ -154064,7 +154038,6 @@
 ||singleuseinstruments.com^
 ||singred25956447914732649713648239-d.github.io^
 ||singroot.com^
-||singstout.com^
 ||singtelmedia.com^
 ||singu-ean-kashata-a2a853.netlify.app^
 ||singular-starburst-c3dds959.netlify.app^
@@ -160475,7 +160448,6 @@
 ||steamworld.org^
 ||steanccommunity.ru^
 ||steancommuity.ru^
-||steancommunily.ru^
 ||steancommunitv.com^
 ||steancommunity.com^
 ||steancomnnunity.com^
@@ -161979,7 +161951,6 @@
 ||sukuntextile.com^
 ||sukw.duckdns.org^
 ||sukweb.de^
-||sulap138rtp.com^
 ||sulbah.com^
 ||sulendode.kissr.com^
 ||sulfux.ddns.net^
@@ -172084,7 +172055,6 @@
 ||triplescrubjenny.com^
 ||triplewhale-pixel.web.app^
 ||triplikealocal.com^
-||triplooqp.world^
 ||tripolexxx.duckdns.org^
 ||tripolihotels.com^
 ||trippapua.com^
@@ -176440,7 +176410,6 @@
 ||utrack.hexun.com^
 ||utransilvania.ro^
 ||utrdiwdcmhrfon.com^
-||utrecht-mode.nl^
 ||utrencon.com^
 ||utrius.com^
 ||utrokolhoz.ru^
@@ -177135,7 +177104,6 @@
 ||vantageblink.cfd^
 ||vantageboost.cfd^
 ||vantagebuddy.cfd^
-||vantagecore.cfd^
 ||vantageexpose.cfd^
 ||vantageflux.cfd^
 ||vantagefusion.cfd^
@@ -186030,7 +185998,6 @@
 ||wv-notification-priority-fb-mail.netlify.app^
 ||wv0553vghafgtaf0jiesbc94.webdesignvistaa.com^
 ||wv0ae5rejsrnh6n53l222227.lifestylepece.com^
-||wv7n0k5b.life^
 ||wvboajjti.com^
 ||wvcxfrwgdgd.weeblysite.com^
 ||wvdoctors.com^
@@ -189563,7 +189530,6 @@
 ||yourmailamazon99.redirectme.net^
 ||yourmark.eu^
 ||yournetflix.com^
-||yournewcarnow.live^
 ||yournewincome.info^
 ||yournewyorkcityguide.com^
 ||yournintendowii4free.com^
