@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.0.49.93
+! Version: 1.0.49.94
 ! Homepage: https://oisd.nl/
-! Last modified: 2025-03-25T13:12:18.221Z
+! Last modified: 2025-03-25T15:06:42.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5233,7 +5233,6 @@
 ||6snjvxkawrtolv2x.pro^
 ||6sxnyssjrtzpe.cindypamperedpets.com^
 ||6t.gucac.com^
-||6t.lg9.cc^
 ||6t.www.gucac.com^
 ||6t152qng.life^
 ||6t5.o7pc.cfd^
@@ -16624,7 +16623,6 @@
 ||allegrolokalnie.pl03482oferta-iphone.cfd^
 ||allegrolokalnie.pl05692oferta-iphone.cfd^
 ||allegrolokalnie.pl21407oferta-iphone.cfd^
-||allegrolokalnie.pl23095oferta-iphone.cfd^
 ||allegrolokalnie.pl2351.cfd^
 ||allegrolokalnie.pl30497oferta-ekspresdokawy.cfd^
 ||allegrolokalnie.pl32490oferta-iphone.cfd^
@@ -21692,7 +21690,6 @@
 ||arguerepetition.com^
 ||argumentsadrenaline.com^
 ||argumentsmaymadly.com^
-||argusishere.ddns.net^
 ||argworldwideftp.net^
 ||argylabs.com^
 ||argyllsleonora.top^
@@ -31468,7 +31465,6 @@
 ||bittorrent.es^
 ||bittrex.cash^
 ||bittrex.one^
-||bittygravely.com^
 ||bittygravely.com.com^
 ||bittystock.com^
 ||bitufoam.com^
@@ -32974,7 +32970,6 @@
 ||booking-com.property-59021.com^
 ||booking-com.property-69033.com^
 ||booking-com.property-721389.pics^
-||booking-com.property-74323.pics^
 ||booking-com.property-84691.pics^
 ||booking-com.property-84791.lol^
 ||booking-com.property-84791.pics^
@@ -52519,7 +52514,6 @@
 ||davideperrotta.ilbello.com^
 ||davidhalldavidhall.com^
 ||davidmeiland.com^
-||davidmendezmarti.com^
 ||davidmorelphoto.com^
 ||davidoffhand.com^
 ||davidpeterkerr.com^
@@ -52584,7 +52578,6 @@
 ||day220.com^
 ||day320.com^
 ||day801.com^
-||day802.com^
 ||day803.com^
 ||day901.com^
 ||dayartgallery.com^
@@ -56318,7 +56311,6 @@
 ||dlcreativespot.com^
 ||dlcryptoinvest.top^
 ||dlcsorcl.com^
-||dlcyberhub.top^
 ||dlcyberhubconnect.top^
 ||dld.jxwan.com^
 ||dld.podcast.lisameyerson.com^
@@ -61827,7 +61819,6 @@
 ||elitestrustonline.com^
 ||eliteswingtraining.com^
 ||elitetoplist.com^
-||elitetransolutions.com^
 ||elitetravelcolombia.com^
 ||elitetvdownloads.com^
 ||elitewebinars.com^
@@ -65650,7 +65641,6 @@
 ||f24.site^
 ||f26900.awicksin.com^
 ||f277.paidtomoney.com^
-||f296ded4d95d108d4c0d702da5095679.dirks.pl^
 ||f2a2ddbb84.com^
 ||f2communitynews.112.2o7.net^
 ||f2dg1545ert5ert8t.alevsesli.net^
@@ -66092,7 +66082,6 @@
 ||facebook.onlineleadfinder.com^
 ||facebook.oobb.pl^
 ||facebook.pl-weryfikowanie.com^
-||facebook.security.center.myinfinitepropertysolutions.com^
 ||facebook.security.id.site.avgup.linkpc.net^
 ||facebook.selvatica.knowmonitor.com^
 ||facebook.webd.pro^
@@ -66418,7 +66407,6 @@
 ||fak.pyw.mybluehost.me^
 ||fakebok.blogcu.com^
 ||fakediamondwatch.re^
-||fakefactsgames.com^
 ||fakenotesandclonedcards.com^
 ||fakeosaurus.com^
 ||fakeraybans.net^
@@ -67162,7 +67150,6 @@
 ||fbhacks.us^
 ||fbhackz.com^
 ||fbhkxt.icu^
-||fbi.condi.network^
 ||fbi.sexxxy.biz^
 ||fbin.de^
 ||fbinternationals.net^
@@ -69058,7 +69045,6 @@
 ||fixitymetabit.website^
 ||fixly.pro^
 ||fixmycommerce.com^
-||fixmygadget.net^
 ||fixmypcfree.com^
 ||fixpass.net^
 ||fixpay.info^
@@ -78204,7 +78190,6 @@
 ||gtvflimprojecti.com^
 ||gtvinerti.com^
 ||gtw420.com^
-||gtwled.com^
 ||gtxkze.cn^
 ||gtyjpiobza.com^
 ||gu2s.cfd^
@@ -79661,7 +79646,6 @@
 ||harmfuleqwrj14xnvdc.jp^
 ||harmfulsong.pro^
 ||harmless-sample.pro^
-||harmonicchainassets.com^
 ||harmonicorder.com^
 ||harmonicsomp.com^
 ||harmonie-holistique.fr^
@@ -85871,7 +85855,6 @@
 ||iklanhemat.com^
 ||iklanhoki.com^
 ||iklanoke.com^
-||iklanpenawaran.com^
 ||iklantanpadaftar.com^
 ||iklantelevisi.com^
 ||iklantext.com^
@@ -91026,7 +91009,6 @@
 ||javbeat.fun^
 ||javcost.fun^
 ||javdawn.fun^
-||javedinfotech.com^
 ||javgenetic11.fun^
 ||javgg.eu^
 ||javgulf.fun^
@@ -98798,7 +98780,6 @@
 ||leafvypathways.top^
 ||leafy-feel.com^
 ||leafybrainpress.com^
-||leafygreenhorizon920.sbs^
 ||leafysproutpathway901.sbs^
 ||leafz.atwebpages.com^
 ||leager--us-start-us.webflow.io^
@@ -105767,7 +105748,6 @@
 ||mainhostingserverr85.web.app^
 ||mainjobtools.netlify.app^
 ||mainlinevapedistribution.com^
-||mainlyhard.com^
 ||mainnet-validate.firebaseapp.com^
 ||mainnet-validate.web.app^
 ||mainnet-validation.pages.dev^
@@ -108156,7 +108136,6 @@
 ||medinews24.pl^
 ||medinses.ru^
 ||medio.com^
-||mediocrecount.com^
 ||medion-001-site1.ctempurl.com^
 ||mediqua.com^
 ||medises.co.kr^
@@ -112194,7 +112173,6 @@
 ||mondialrelaylivraison.fr^
 ||mondialrelays.fr^
 ||mondialrelayshipping.fr^
-||mondialrelaystatus.fr^
 ||mondialrelaytracking.fr^
 ||mondials-relai.com^
 ||mondialtissu.fr^
@@ -115508,7 +115486,6 @@
 ||naowvxkpqdmfhni-dot-charming-sky-2700.appspot.com^
 ||napa.hn^
 ||napainsi.net^
-||napallergy.com^
 ||napaneebaseball.com^
 ||napapijrifrance.fr^
 ||napatablets.com^
@@ -119021,7 +118998,6 @@
 ||notifepages-1120.start.page^
 ||notifhub.com^
 ||notificacionbcr.0hi.me^
-||notificacionpdf.duckdns.org^
 ||notificadoresrma.duckdns.org^
 ||notificardlinea.webcindario.com^
 ||notification-browser.com^
@@ -119736,7 +119712,6 @@
 ||nutchaungong.com^
 ||nutdelden.nl^
 ||nuteg.com^
-||nutidl.com^
 ||nutiipwkk.com^
 ||nutink.rent^
 ||nutkingstt.com^
@@ -121632,7 +121607,6 @@
 ||olx-pl.bezpieczna-transakcja.info^
 ||olx-pl.blossomtulip.cfd^
 ||olx-pl.bqesazer.shop^
-||olx-pl.brakefix.cfd^
 ||olx-pl.cnaelia.sbs^
 ||olx-pl.cskielof.cfd^
 ||olx-pl.dcleosla.cfd^
@@ -130049,7 +130023,6 @@
 ||placingharassment.com^
 ||placoganoidean.com^
 ||pladvertising-manage.com^
-||plaff-go.ru^
 ||plague.fun^
 ||plaiai.com^
 ||plaicealwayspanther.com^
@@ -135284,7 +135257,6 @@
 ||ptonauls.net^
 ||ptongouh.net^
 ||ptooftouss.net^
-||ptookaih.net^
 ||ptookirgoonsa.com^
 ||ptookrutsams.com^
 ||ptoorauptoud.net^
@@ -144559,7 +144531,6 @@
 ||rk-makler.de^
 ||rk.uhhokker.top^
 ||rk6h3.icu^
-||rka4u64f.life^
 ||rkadda.com^
 ||rkadint.com^
 ||rkapghq.com^
@@ -152645,7 +152616,6 @@
 ||shero11.hopto.org^
 ||shero19.zapto.org^
 ||sherocksink.com^
-||sherrihess.com^
 ||sherwinwilliamscoupon.co.cc^
 ||sherwoodhotels.com.tr^
 ||sherwoodpest.com^
@@ -161197,7 +161167,6 @@
 ||stringsta.com^
 ||strip.alicdn.com^
 ||strip.taobaocdn.com^
-||stripe-gateway.com^
 ||stripe.rs-1028-a.com^
 ||striped-heliotrope-deer.glitch.me^
 ||stripedbat.com^
@@ -171102,7 +171071,6 @@
 ||transgym.com^
 ||transhipments.com^
 ||transientblobexaltation.com^
-||transit-consigne.com^
 ||transit-de-colis.com^
 ||transit-prbs.com^
 ||transit-relais.com^
@@ -177027,7 +176995,6 @@
 ||vantageunion.cfd^
 ||vantagewave.cfd^
 ||vantageway.cfd^
-||vantageyonder.cfd^
 ||vantasrelatercond.com^
 ||vantasselworkshop.borsawallace2010.com^
 ||vantilburg-online.nl^
@@ -177834,7 +177801,6 @@
 ||verschickt-ohne-rezept.com.de^
 ||verse-content.com^
 ||verseballs.com^
-||versedarkenedhusky.com^
 ||verseexposurethanksgiving.com^
 ||versichert-lieferung.de^
 ||versicherung-sparen.eu^
@@ -184570,7 +184536,6 @@
 ||wishesantennarightfully.com^
 ||wishesen.com^
 ||wishesit.com^
-||wishesmsges.com^
 ||wishfulgifts.net^
 ||wishhoree1890.com^
 ||wishingtreegroup.com^
