@@ -140,10 +140,6 @@
 		"hostlist.37.description": "Google関連のドメイン（YouTubeを含む）を完全にブロックします。"
 	},
 	{
-		"hostlist.38.name": "1Hosts (mini)",
-		"hostlist.38.description": "厄介な広告、トラッカー、マルウェアをブロックするためのリスト。【Lenient版】アプリ内報酬、アンチAdBlockなどの広告やトラッカーのブロックを多数解除します。"
-	},
-	{
 		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
 		"hostlist.39.description": "サイト上のプッシュ通知を削除することを目的とします。「AdGuard ポップアップフィルタ」のプッシュ対策セクションと「Fanboy's Notifications Blocking List」の該当ルールを組み合わせています。"
 	},
@@ -206,5 +202,16 @@
 	{
 		"hostlist.54.name": "HaGeZi's DynDNS Blocklist",
 		"hostlist.54.description": "ダイナミックDNSサービスをブロックすることで、フィッシングキャンペーンなどでの悪意のある利用から保護します。"
+	},
+	{
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "ユーザーコンテンツ経由でバッドウェア（badware）もホストしている既知の無料ホスティング業者をブロックし、これらのホスティング業者が悪意のある目的に使用されるのを防ぎます。"
+	},
+	{
+		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
+		"hostlist.56.description": "最も悪用されているトップレベルドメインのリスト。（HaGeZi、Yokoffing、DandelionSprout、SpamHAUS を統合したものです。）"
+	},
+	{
+		"hostlist.60.description": "活動を追跡するXiaomiネイティブのブロードバンドトラッカーをブロックします。"
 	}
 ]

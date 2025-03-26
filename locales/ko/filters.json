@@ -140,10 +140,6 @@
 		"hostlist.37.description": "모든 Google 관련 도메인(YouTube 포함)을 완전히 차단합니다."
 	},
 	{
-		"hostlist.38.name": "1Hosts (mini)",
-		"hostlist.38.description": "성가신 광고, 트래커 및 멀웨어를 차단하는 리스트입니다. 단순화된 버전은 인앱 보상, 광고 차단 방지(anti-AdBlock) 등을 위한 여러 광고 및 추적기의 차단을 해제합니다."
-	},
-	{
 		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
 		"hostlist.39.description": "사이트에서 푸시 알림을 제거하는 것을 목표로 합니다. AdGuard 팝업 필터의 푸시 방지 섹션과 Fanboy's Notifications Blocking List에서 적격 규칙을 결합합니다."
 	},
@@ -208,10 +204,14 @@
 		"hostlist.54.description": "피싱 캠페인 등의 악용을 막기 위해 동적 DNS 서비스를 차단합니다."
 	},
 	{
-		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist"
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "사용자 콘텐츠를 통해 악성 프로그램을 호스팅하는 알려진 무료 호스팅 업체를 차단하여 이러한 호스팅 업체가 악의적인 목적으로 사용되는 것을 방지합니다."
 	},
 	{
 		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
 		"hostlist.56.description": "가장 많이 남용되는 최상위 도메인은 HaGeZi, Yokoffing, DandelionSprout 및 SpamHAUS에서 병합되었습니다."
+	},
+	{
+		"hostlist.60.description": "사용자의 활동을 추적하는 Xiaomi 기본 브로드밴드 추적기를 차단합니다."
 	}
 ]

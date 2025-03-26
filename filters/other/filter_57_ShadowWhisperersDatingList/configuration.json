@@ -1,6 +1,6 @@
 {
   "name": "ShadowWhisperer's Dating List",
-  "description": "Blocks dating sites.",
+  "description": "Blocks dating websites.",
   "homepage": "https://github.com/ShadowWhisperer/BlockLists",
   "sources": [
     {
@@ -13,6 +13,7 @@
     }
   ],
   "transformations": [
+    "RemoveComments",
     "Deduplicate",
     "Compress"
   ]

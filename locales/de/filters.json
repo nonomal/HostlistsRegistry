@@ -24,7 +24,7 @@
 		"hostlist.7.description": "Liste zum Verhindern, dass Smart-TVs Metadaten an den Anbieter senden, und zum Sperren von Werbung in Apps und Filmdiensten"
 	},
 	{
-		"hostlist.8.name": "NoCoin Filter List (Schürfen nach Kryptowährung)",
+		"hostlist.8.name": "NoCoin Filter List",
 		"hostlist.8.description": "Liste zum Sperren von browserbasiertem Krypto-Mining"
 	},
 	{
@@ -140,10 +140,6 @@
 		"hostlist.37.description": "Sperrt vollständig alle mit Google verbundenen Domains (einschließlich YouTube)."
 	},
 	{
-		"hostlist.38.name": "1Hosts (mini)",
-		"hostlist.38.description": "Liste zum Sperren lästiger Werbung, Tracker und Malware. Milde Version: Entsperrt eine Reihe von Werbung und Trackern für In-App-Belohnungen, Anti-AdBlock, usw."
-	},
-	{
 		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
 		"hostlist.39.description": "Ziel ist es, Push-Benachrichtigungen auf Websites zu entfernen. Kombiniert geeignete Regeln aus den Anti-Push-Abschnitten von AdGuard Popups Filter und der Notifications Blocking List von Fanboy."
 	},
@@ -214,5 +210,8 @@
 	{
 		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
 		"hostlist.56.description": "Die am meisten missbrauchten Top Level Domains, zusammengestellt von HaGeZi, Yokoffing, DandelionSprout und SpamHAUS."
+	},
+	{
+		"hostlist.60.description": "Sperrt den nativen Xiaomi-Breitband-Tracker, der Ihre Aktivitäten aufzeichnet."
 	}
 ]

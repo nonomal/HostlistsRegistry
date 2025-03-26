@@ -1,24 +1,12 @@
 !
 ! Title: ShadowWhisperer's Dating List
-! Description: Blocks dating sites.
+! Description: Blocks dating websites.
+! Version: 1.0.14.71
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-05-21T16:05:50.418Z
+! Last modified: 2025-03-26T01:35:05.215Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
-!
-! Source name: ShadowWhisperer's Dating List
-! Source: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-!
-#
-#    File: Dating
-#    Info: Dating Sites
-# Domains: 1,052
-# Updated: 5/21/2024  10:20 (10:20 AM CST)
-#
-#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dating
-#     Git: https://github.com/ShadowWhisperer/BlockLists.git
-#
 
 ||1000-dating-sites.com^
 ||100-best-dating-sites.com^
@@ -46,6 +34,7 @@
 ||50datingnorway.com^
 ||5-a-7.com^
 ||97tibo.com^
+||abcdatingadvisor.com^
 ||accords-franco-russes.com^
 ||acedate.co.uk^
 ||activepeoplemeet.com^
@@ -86,6 +75,7 @@
 ||amourfactory.com^
 ||amourland.com^
 ||amours-bio.com^
+||amourtimes.com^
 ||amputeeangels.com^
 ||anastasiadate.com^
 ||angelika-club.com^
@@ -102,6 +92,7 @@
 ||asiame.com^
 ||asiandating.com^
 ||asiandatingguide.com^
+||asiandatingplanet.com^
 ||asianfaces.co.uk^
 ||asianfriendfinder.com^
 ||asiangirls4u.com^
@@ -182,6 +173,7 @@
 ||celibest.com^
 ||celibouest.com^
 ||celibparis.com^
+||charmdate.com^
 ||charmingdate.com^
 ||chatdate.app^
 ||chattijd.be^
@@ -212,6 +204,7 @@
 ||coolsitesforsingles.com^
 ||coupleminutes.com^
 ||crushonfeature.com^
+||csajokespasik.hu^
 ||cupidbay.com^
 ||cupid.com^
 ||cupid-match.com^
@@ -241,6 +234,7 @@
 ||datereadingsingles.co.uk^
 ||datesabroad.com^
 ||dateseeker.net^
+||dateseniorukrainian.com^
 ||datesuffolksingles.co.uk^
 ||datetheuk.com^
 ||datewesternislessingles.co.uk^
@@ -259,6 +253,7 @@
 ||datingforseniors.com^
 ||datingfriendships.com^
 ||datinggold.com^
+||datingguide.com.au^
 ||dating-guides.com^
 ||datinghaven.com^
 ||datinghunts.com^
@@ -282,6 +277,7 @@
 ||datingsites-reviewed.com^
 ||datingsitesreviews.com^
 ||dating-sites-singapore.com^
+||datingsitexperts.co.uk^
 ||datingsmokers.com^
 ||datingsugarmomma.net^
 ||datinguk.com^
@@ -388,6 +384,7 @@
 ||dial95.fr^
 ||dialweb.fr^
 ||diamond-dating.co.uk^
+||dilkarishta.com^
 ||directorydatingsites.com^
 ||disabledpassions.com^
 ||discut.fr^
@@ -413,6 +410,7 @@
 ||e-match.net^
 ||encontrar-pareja.net^
 ||encount.com^
+||engagedencounter.com^
 ||entremetteurs.com^
 ||epolishwife.com^
 ||erot.lv^
@@ -442,9 +440,11 @@
 ||fling.com^
 ||flippedapp.net^
 ||flirtcafe.de^
+||flirtejetzt.com^
 ||flirt-fever.de^
 ||flirthits.com^
 ||flirtic.ee^
+||flirt-jetzt.com^
 ||flirtmoi.com^
 ||flirtpiraten.com^
 ||flirtschiff.com^
@@ -463,6 +463,7 @@
 ||friendscout24.ch^
 ||friendscout24.es^
 ||friendscout24.it^
+||fruitz.io^
 ||frumster.com^
 ||funkyfish-dating.com^
 ||funkyfishdating.com^
@@ -476,6 +477,8 @@
 ||gaydatingsites.com.au^
 ||gayonlinedatingsites.com^
 ||gay-parship.fr^
+||gay-personals.co.za^
+||gaysocialnetwork.com.au^
 ||gaysugardaddydating.net^
 ||geekmemore.com^
 ||genxpeoplemeet.com^
@@ -486,10 +489,12 @@
 ||globalladies.com^
 ||gma.bz^
 ||goflirtaround.com^
+||gomatch.com^
 ||gonnalove.com^
 ||gopromenad.com^
 ||gothscene.com^
 ||gotinder.com^
+||gotthem.com^
 ||greensingles.net^
 ||groony.com^
 ||guayu.com^
@@ -502,6 +507,7 @@
 ||happysingles.fr^
 ||harmonylove.com^
 ||hasimausi.de^
+||heavenly-match.com^
 ||heliumdating.com^
 ||hickeyapp.com^
 ||hily.com^
@@ -517,6 +523,7 @@
 ||homodate.be^
 ||hugavenue.com^
 ||hushlove.com^
+||ichwilldichjetzt.com^
 ||icouple.fr^
 ||idate.co.uk^
 ||ifoundu.com^
@@ -526,6 +533,7 @@
 ||ilove.de^
 ||ilovemessenger.fr^
 ||ima-dating.com^
+||incontriromantici.it^
 ||indiamatch.com^
 ||indiandatelink.com^
 ||inmyprimedatelink.com^
@@ -621,6 +629,14 @@
 ||lovez.jp^
 ||lovinga.com^
 ||lov.net^
+||lovoo.ch^
+||lovoo.com^
+||lovoo.de^
+||lovoo.es^
+||lovoo.fr^
+||lovoo.it^
+||lovoo.net^
+||lovoo.nl^
 ||lusomeet.com^
 ||lusomeet.fr^
 ||lustvolleflirts.com^
@@ -678,10 +694,12 @@
 ||milfdatelink.com^
 ||minaflirts.com^
 ||mingle2.com^
+||minglematey.com^
 ||miss34.com^
 ||mixeddating.net^
 ||monamour.ru^
 ||mon-bled.com^
+||monsecretsexy.com^
 ||mtch.com^
 ||muzmatch.com^
 ||mydates.com^
@@ -689,7 +707,6 @@
 ||myfunkyfish.com^
 ||mylove.ru^
 ||mysinglefriend.com^
-||naughtydate.com^
 ||neu.ch^
 ||new-dating.com^
 ||newmeet.com^
@@ -706,6 +723,7 @@
 ||oklute.com^
 ||oknotify2.com^
 ||olgabeck.com^
+||onadate.com^
 ||onebbw.com^
 ||onedate.com^
 ||onenightfriend.com^
@@ -726,7 +744,9 @@
 ||ourtime.com^
 ||outdoorpeoplemeet.com^
 ||outpersonals.com^
+||over50datingnorge.com^
 ||parisvideochat.com^
+||parship.at^
 ||parship.ch^
 ||parship.com^
 ||parship.co.uk^
@@ -916,12 +936,14 @@
 ||sekscamera.nl^
 ||seniorblackpeoplemeet.com^
 ||seniordatelink.com^
+||seniordatingplanet.com^
 ||seniorfriendfinder.com^
 ||seniorpeoplemeet.com^
 ||sentimente.ro^
 ||setravieso.com^
 ||sexsa.co.za^
 ||shaadi.com^
+||show-640.com^
 ||siberianbrides.com^
 ||singaporelovelinks.com^
 ||singels.ch^
@@ -939,6 +961,7 @@
 ||skout.com^
 ||sladur.com^
 ||slowdating.com^
+||smooch.com^
 ||smoothsingles.co.uk^
 ||sms-frauen.com^
 ||snap.tn^
@@ -954,7 +977,9 @@
 ||speeddatinglondon.co.uk^
 ||speed-dating-lyon.com^
 ||speeddatingmontreal.com^
+||sportdatingplanet.com^
 ||sturb.com^
+||suchejetzt.com^
 ||sugarbook.com^
 ||sugarmatchmaking.com^
 ||sunioo.com^
@@ -964,6 +989,7 @@
 ||swissflirt.ch^
 ||swissfriends.ch^
 ||sxeseis.gr^
+||tadum.com^
 ||tagged.com^
 ||tagstat.com^
 ||talksaferdating.com^
@@ -985,6 +1011,8 @@
 ||tiilt.fr^
 ||tinder.com^
 ||tinderoplus.com^
+||tinderphotos-d1-ue1.s3.amazonaws.com^
+||togethernetworks.com^
 ||toietmoi.fr^
 ||tonga-soa.com^
 ||top10datingreviews.org^
@@ -1008,6 +1036,7 @@
 ||uadating.net^
 ||uchat.de^
 ||udolly.com^
+||ugay.net^
 ||ukrainischefrauen.net^
 ||u-lover.com^
 ||ultrarichmatch.com^
@@ -1027,12 +1056,14 @@
 ||vibeline.com^
 ||vietnamcupid.com^
 ||vietsingle.vietfun.com^
+||violetdates.com^
 ||virtumatch.com^
 ||vivas2.com^
 ||volosdate.com^
 ||votamicuerpo.com^
 ||voteanddate.com^
 ||wantubad.com^
+||waplog.com^
 ||weareher.com^
 ||webconnexions.com^
 ||weekenddating.com^
@@ -1068,5 +1099,6 @@
 ||yourjewishdate.com^
 ||yoursecrethookup.com^
 ||za-gay.org^
+||zhenai91.com^
 ||znamost.cz^
 ||zoosk.com^

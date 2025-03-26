@@ -140,10 +140,6 @@
 		"hostlist.37.description": "完全封鎖所有與 Google 相關的網域（包括 YouTube）。"
 	},
 	{
-		"hostlist.38.name": "1Hosts (mini)",
-		"hostlist.38.description": "封鎖討厭的廣告、追蹤器和惡意軟體的清單。寬松版：解除對應用內獎勵、反 AdBlock 等的大量廣告和追蹤器的封鎖。"
-	},
-	{
 		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
 		"hostlist.39.description": "旨在移除網站上的推送通知。結合了 AdGuard 彈出窗口過濾器的阻擋推送部分和 Fanboy 的通知阻擋清單的合格規則。"
 	},
@@ -206,5 +202,16 @@
 	{
 		"hostlist.54.name": "HaGeZi's DynDNS Blocklist",
 		"hostlist.54.description": "阻止動態 DNS 服務，以防止在網路釣魚活動和其他活動中惡意使用。"
+	},
+	{
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "封鎖已知的免費主機商，這些主機商透過使用者內容也提供惡意軟體，以防止這些主機商被用於惡意用途。"
+	},
+	{
+		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
+		"hostlist.56.description": "最常被濫用的頂級域名，由 HaGeZi、Yokoffing、DandelionSprout 和 SpamHAUS 組成。"
+	},
+	{
+		"hostlist.60.description": "阻止 Xiaomi 原生的寬帶追蹤器，該追蹤器會追蹤使用者活動。"
 	}
 ]

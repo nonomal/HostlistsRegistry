@@ -140,10 +140,6 @@
 		"hostlist.37.description": "Bloqueia completamente todos os domínios relacionados ao Google (incluindo o YouTube)."
 	},
 	{
-		"hostlist.38.name": "1Hosts (mini)",
-		"hostlist.38.description": "Lista para bloquear anúncios irritantes, monitorizadores e malware. Versão tolerante: desbloqueia vários anúncios e monitorizadores para recompensas na aplicação, anti-bloquador de anúncios, etc."
-	},
-	{
 		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
 		"hostlist.39.description": "Destina-se a remover notificações push em sites. Combina regras elegíveis das seções anti-push do filtro de pop-ups do AdGuard e da lista de bloqueio de notificações do Fanboy."
 	},
@@ -208,10 +204,14 @@
 		"hostlist.54.description": "Bloqueia os serviços DNS dinâmicos para proteger contra a utilização maliciosa em campanhas de phishing e outras situações."
 	},
 	{
-		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist"
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "Bloqueia servidores gratuitos conhecidos que também hospedam programas nocivos que utilizam conteúdo do utilizador para evitar o uso desses servidores para fins maliciosos."
 	},
 	{
 		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
 		"hostlist.56.description": "The Top Most Abused Top Level Domains, merged from HaGeZi, Yokoffing, DandelionSprout and SpamHAUS."
+	},
+	{
+		"hostlist.60.description": "Bloqueia o rastreador de banda larga nativo da Xiaomi que rastreia a sua atividade."
 	}
 ]

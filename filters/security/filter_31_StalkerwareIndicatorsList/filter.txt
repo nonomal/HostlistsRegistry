@@ -1,14 +1,11 @@
 !
 ! Title: Stalkerware Indicators List
 ! Description: Stalkerware indicators of compromise for Android and iOS.
+! Version: 1.0.14.56
 ! Homepage: https://github.com/AssoEchap/stalkerware-indicators
-! Last modified: 2024-06-01T13:05:50.729Z
+! Last modified: 2025-02-25T13:16:24.499Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
-!
-!
-! Source name: Stalkerware Indicators List
-! Source: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 12d60.appspot.com
 12d60.firebaseio.com
@@ -160,6 +157,7 @@ blurspy.com
 brilliant-flame-585.firebaseio.com
 brunoespiao.com
 brunoespiao.com.br
+brunoespiao2.s3.amazonaws.com
 c-phone.ru
 c.appjiagu.com
 c1.panspy.com
@@ -241,6 +239,7 @@ e-spy.app
 e-spy.org
 e.appjiagu.com
 e2c64.firebaseio.com
+eaglespy.com.br
 easydoc.info
 easyloggerbeta.azurewebsites.net
 easyphonetrack.com
@@ -525,6 +524,7 @@ protocol-a.ispyoo.com
 protocol-a.mxspy.com
 protocol-a.thetruthspy.com
 protocol-a100.fonetracker.com
+protocol-a100.phoneparental.com
 protocol-a100.thetruthspy.com
 protocol-a5.guestspy.com
 protocol-a58.guestspy.com
@@ -635,6 +635,7 @@ relay1.trackview.net
 remotecommands.com
 remotesecurity-629f2.firebaseio.com
 remotesecurityots.firebaseio.com
+remoto.foxspy.com.br
 repo.mspyonline.com
 reptilicus.net
 rockalab.com
@@ -750,6 +751,7 @@ staging-all-tracker.appspot.com
 staging.smstracker.com
 studio11-7e288.firebaseio.com
 support.mtoolapp.biz
+support.phoneparental.com
 sync-a.copy9.com
 sync-a.exactspy.com
 sync-a.fonetracker.com

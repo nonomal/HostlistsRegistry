@@ -1,17 +1,12 @@
 !
 ! Title: ISR: EasyList Hebrew
 ! Description: List for blocking ads in Hebrew.
+! Version: 1.0.14.55
 ! Homepage: https://github.com/easylist/EasyListHebrew
-! Last modified: 2024-06-21T13:06:43.895Z
+! Last modified: 2025-03-06T11:28:35.953Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
-!
-! Source name: EasyList Hebrew (Hosts)
-! Source: https://raw.githubusercontent.com/easylist/EasyListHebrew/master/hosts.txt
-!
-# This lists only contains domains which are used for ads, tracking or popups. it does not block in-HTML elements.
-# For use, simply copy paste this into your computers' HOSTS file. See https://en.wikipedia.org/wiki/Hosts_(file)#Location_in_the_file_system
 ||07af698ea8a2a5a789b79c2d75ba83d3.com^
 ||102320fef81194c7b0c7c6bbe64d845d.com^
 ||11a5ade414a6a4b9969685db9e96b193.com^
@@ -53,6 +48,8 @@
 ||asface.pw^
 ||ashleymadison.com^
 ||ashleyrnadison.com^
+||atardrushim.com^
+||aurelia-il.com^
 ||avoda-mehabait.co.il^
 ||azadv.co.il^
 ||bagly.co.il^
@@ -76,10 +73,13 @@
 ||boritra.com^
 ||bostonparadise.com^
 ||bostonwall.com^
+||briut-chai.com^
 ||browsergames2018.com^
+||browsiprod.com^
 ||bsdigital.co.il^
 ||bsdygital.co.il^
 ||bulgarine.com^
+||bumbalu-israel.com^
 ||cdn.mdigital.co.il^
 ||cdnic.site^
 ||cellebrate.mobi^
@@ -90,6 +90,7 @@
 ||cloudbit.rocks^
 ||cloudboost.co.il^
 ||cloudflame.co.il^
+||cohenza-il.com^
 ||com-1notification.co^
 ||com-cloud.co^
 ||com-contact.co^
@@ -121,6 +122,7 @@
 ||expert-offers.com^
 ||exposeboxwallashops.blob.core.windows.net^
 ||expresswin.top^
+||ezra-il.com^
 ||facebookdating.link^
 ||faceu.us^
 ||fbookisrael.com^
@@ -136,6 +138,7 @@
 ||fringantlarn8.live^
 ||gbuzz.net^
 ||gefun.net^
+||giborboxr-il.com^
 ||giftandmore.club^
 ||gilorly.leadpages.co^
 ||gim.co.il^
@@ -144,6 +147,7 @@
 ||gitam.co.il^
 ||gnsdigital.co.il^
 ||goodluckblockingthis.com^
+||graces-bag.com^
 ||great-offers.co.il^
 ||greenlead.co.il^
 ||gubuzz.com^
@@ -201,14 +205,17 @@
 ||klnrew.site^
 ||kmrnkjer.xyz^
 ||kofpag.com^
+||kooduu.com^
 ||kozikar.com^
 ||kurtgeigers.co^
 ||landing-page.mobi^
 ||lastpage.pw^
 ||lauyn.info^
+||lavaveli.com^
 ||layer.co.il^
 ||lead.foxweb.co.il^
 ||leshem.info^
+||levoria-il.com^
 ||like-it.co.il^
 ||linicom.co.il^
 ||livenza-il.com^
@@ -233,11 +240,13 @@
 ||media.foxweb.co.il^
 ||medical-rights.co.il^
 ||meet-nowhere12.com^
+||meirav-il.com^
 ||metador.info^
 ||mibilezone.com^
 ||mimgoal.com^
 ||mini-sites.net^
 ||mitbahon.co.il^
+||mizrahi-il.com^
 ||mklrty.info^
 ||mobilesecureid.com^
 ||mohengdu.com^
@@ -251,17 +260,21 @@
 ||newyorkwhil.com^
 ||next-net.co.il^
 ||njkiho.info^
+||noa-tikim.com^
 ||nothering.com^
+||noya-il.com^
 ||nullenabler.com^
 ||numberthreebear.com^
 ||oceanmedia.co.il^
 ||offers-land.com^
+||ofnatlevi-il.com^
 ||ohmydating.com^
 ||ok-server.co.il^
 ||online-offer.co.il^
 ||onlineproxyfree.com^
 ||only2date.com^
 ||optmz.online^
+||orenthelabel.com^
 ||osef.co.il^
 ||oversailor.com^
 ||padv.co.il^
@@ -296,6 +309,7 @@
 ||sex-party.co.il^
 ||sexdating123.com^
 ||shaardollar.co.il^
+||shahar-il.com^
 ||shakesider.com^
 ||sharedcdn.site^
 ||sirtonim.me^
@@ -349,6 +363,7 @@
 ||vodmovies.co.il^
 ||vodx.co.il^
 ||vodxil.com^
+||votladora.com^
 ||webeatyouradblocker.com^
 ||webteam.co.il^
 ||wee.co.il^
@@ -369,3 +384,4 @@
 ||zegvid.net^
 ||zinovila.com^
 ||zipodita.com^
+||zohar-trends.com^

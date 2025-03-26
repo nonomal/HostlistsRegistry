@@ -140,10 +140,6 @@
 		"hostlist.37.description": "Blocca completamente tutti i domini relativi a Google (incluso YouTube)."
 	},
 	{
-		"hostlist.38.name": "1Hosts (mini)",
-		"hostlist.38.description": "Elenco per bloccare fastidiosi annunci, tracker e malware. Versione indulgente: sblocca una serie di annunci e tracker per premi in-app, anti-AdBlock, ecc."
-	},
-	{
 		"hostlist.39.name": "Dandelion Sprout's Anti Push Notifications",
 		"hostlist.39.description": "Mira a rimuovere le notifiche push dai siti. Combina le regole ammissibili delle sezioni anti-push di AdGuard Popups Filter e dell'elenco di blocco delle notifiche di Fanboy."
 	},
@@ -180,25 +176,42 @@
 		"hostlist.47.description": "Blocca i contenuti di giochi a distanza."
 	},
 	{
-		"hostlist.48.name": "HaGeZi's Pro Blocklist"
+		"hostlist.48.name": "HaGeZi's Pro Blocklist",
+		"hostlist.48.description": "Big broom - Pulisce Internet e protegge la tua privacy! Blocca annunci, affiliazioni, tracciamento, statistiche, telemetria, phishing, malware, truffe, falsi, Coins e altre schifezze."
 	},
 	{
-		"hostlist.49.name": "HaGeZi's Ultimate Blocklist"
+		"hostlist.49.name": "HaGeZi's Ultimate Blocklist",
+		"hostlist.49.description": "Ultimate Sweeper: Pulisce rigorosamente Internet e protegge la tua privacy! Blocca annunci, affiliazioni, tracciamento (+Referral), statistiche, telemetria, phishing, malware, truffe, host gratuiti, falsi, Coins e altre schifezze."
 	},
 	{
-		"hostlist.51.name": "HaGeZi's Pro++ Blocklist"
+		"hostlist.50.name": "filtri di uBlock₀ – rischi di badware",
+		"hostlist.50.description": "Per i siti documentati che mettono a rischio gli utenti installando adware/crapware/malware, che rubano le credenziali d'accesso, etc. Lo scopo è, quantomeno, garantire che un utente sia avvisato dei rischi che lo attendono."
 	},
 	{
-		"hostlist.52.name": "HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass"
+		"hostlist.51.name": "HaGeZi's Pro++ Blocklist",
+		"hostlist.51.description": "Sweeper - Pulisce aggressivamente Internet e protegge la tua privacy! Blocca annunci, affiliazioni, tracciamento, statistiche, telemetria, phishing, malware, truffe, falsi, Coins e altre schifezze."
 	},
 	{
-		"hostlist.54.name": "HaGeZi's DynDNS Blocklist"
+		"hostlist.52.name": "HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass",
+		"hostlist.52.description": "Impedisce i metodi per aggirare il tuo DNS, blocca DNS, VPN, TOR, proxy crittografati. La prevenzione dell'aggiramento non è garantita."
 	},
 	{
-		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist"
+		"hostlist.53.name": "AWAvenue Ads Rule",
+		"hostlist.53.description": "Usa la sintassi di Adblock per combattere vari SDK pubblicitari nelle applicazioni Android a livello di rete, impedendone il caricamento."
+	},
+	{
+		"hostlist.54.name": "HaGeZi's DynDNS Blocklist",
+		"hostlist.54.description": "Blocca i servizi DNS dinamici per proteggersi dall'uso dannoso in campagne di phishing e altro."
+	},
+	{
+		"hostlist.55.name": "HaGeZi's Badware Hoster Blocklist",
+		"hostlist.55.description": "Blocca i server gratuiti noti che ospitano anche badware tramite il contenuto dell'utente per impedire l'uso di questi server per scopi dannosi."
 	},
 	{
 		"hostlist.56.name": "HaGeZi's The World's Most Abused TLDs",
 		"hostlist.56.description": "I domini di primo livello più abusati, uniti da HaGeZi, Yokoffing, DandelionSprout e SpamHAUS."
+	},
+	{
+		"hostlist.60.description": "Blocca i tracciatori a banda larga nativi Xiaomi che monitorano la tua attività."
 	}
 ]

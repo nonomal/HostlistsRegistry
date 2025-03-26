@@ -1,25 +1,12 @@
 !
 ! Title: POL: Polish filters for Pi-hole
 ! Description: Polish filters for Pi-hole.
+! Version: 1.0.14.53
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2024-04-08T09:50:27.906Z
+! Last modified: 2025-02-25T13:16:11.934Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
-!
-! Source name: Polish filters for Pi-hole
-! Source: https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
-!
-# Polish filters for Pi hole
-# Collaborators: xxcriticxx, MajkiIT
-# Homepage: https://www.certyficate.it/
-# Contact: errorsfilters@certyficate.it 
-# Support: https://github.com/MajkiIT/polish-ads-filter/issues
-# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2024 Certyficate IT
-#
-#
-# [certyficate.it]
 ||0x01n2ptpuz3.com^
 ||69oxt4q05.com^
 ||a.ib.gazeta.pl^
@@ -198,7 +185,6 @@
 ||render.geozo.com^
 ||mustreadfeed.com^
 ||newssomesun.com^
-||userload.co/maroc.js$script^
 ||allepharm.com^
 ||trichomist.store^
 ||mostnewsfeed.com^
@@ -220,7 +206,6 @@
 ||behavioralengine.com^
 ||caringcast.com^
 ||cassini.efigence.com^
-||cdn.cookielaw.org^
 ||clickcounters.com^
 ||clickmatic.pl^
 ||clickmeter.com^
@@ -294,3 +279,4 @@
 ||vendimob.pl^
 ||x.sare25.com^
 ||ymetrica.com^
+||sus-wel.com^

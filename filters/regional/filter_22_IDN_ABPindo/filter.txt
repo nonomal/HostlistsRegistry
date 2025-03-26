@@ -1,21 +1,17 @@
 !
 ! Title: IDN: ABPindo
 ! Description: Filter complementary to EasyList for blocking ads on Indonesian and Malaysian websites
+! Version: 1.0.14.58
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules
-! Last modified: 2024-06-18T02:18:13.519Z
+! Last modified: 2025-03-16T15:05:41.977Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
-!
-!
-! Source name: ABPindo
-! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||188affiliates.com^
 ||accesstrade.co.id^
 ||ad-loupe.com^
 ||adbsys.icu^
 ||addesigner.com^
-||adflazz.com^
 ||admarketplace.net^
 ||adnety.com^
 ||adplus.co.id^
@@ -24,6 +20,7 @@
 ||adreach.co^
 ||adreviewcamp.com^
 ||ads-link.net^
+||ads.d21.media^
 ||ads.indosatooredoo.com^
 ||ads.telkomsel.com^
 ||adsbingo.com^
@@ -82,7 +79,6 @@
 ||indoadsnet.com^
 ||indobanner.com^
 ||indofreeads.com^
-||indoleads.com^
 ||istana-impian.com^
 ||istana-impian2.com^
 ||istanaiklan.com^
@@ -102,7 +98,6 @@
 ||masteriklan.net^
 ||mediab.uy^
 ||mesiniklan.andipublisher.com^
-||mybannermaker.com^
 ||newsupdatewe.info^
 ||offdeck.telkomsel.com^
 ||offer.popsads.link^
@@ -130,6 +125,7 @@
 ||promobagus.com^
 ||promotioncamp.com^
 ||props.id^
+||propsid.b-cdn.net^
 ||publish.web.id^
 ||pusatiklan.com^
 ||s2pops.club^
@@ -148,8 +144,8 @@
 ||spanuletubings.com^
 ||sumberiklan.com^
 ||suryaiklan.com^
-||syndopop.com^
 ||teliad.com^
+||thapi.aedi.ai^
 ||theclickers.net^
 ||tinggalklik.com^
 ||topklik.com^
@@ -186,9 +182,9 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^
-||chitchooms.net^
 ||chqspuonctkgz.com^
 ||craydark.pw^
+||curoax.com^
 ||d0p21g2fep.com^
 ||d72gb9oukw3j.com^
 ||d824d7f5cbcb0e00.com^
@@ -222,7 +218,6 @@
 ||kdbumyha.com^
 ||kozoysnsx.com^
 ||l9tdhe6.com^
-||laluvygy.com^
 ||ld82ydd.com^
 ||leoceran.pw^
 ||lpaizureik.com^
@@ -236,7 +231,6 @@
 ||nvqonvfylkxdjc.com^
 ||oardjnay.com^
 ||octafx.com^
-||olenation.org^
 ||olkrzytv.com^
 ||olmsoneenh.info^
 ||ourtherss.top^
@@ -257,7 +251,6 @@
 ||torflegorb.com^
 ||trendlope.com^
 ||trvwjyjgkgeagd.com^
-||tsyndolls.com^
 ||tummiarunzpf.com^
 ||uamrnaakv.com^
 ||ueuodgnrhb.com^
@@ -269,7 +262,8 @@
 ||wbaogaqvrukprx.com^
 ||whjibbprhng.com^
 ||wkuave.com^
-||xosbkqblniusql.com^
+||wpiohdquqo.com^
+||xihubo.click^
 ||yllix.com^
 ||ys3e965d.top^
 ||zukxd6fkxqn.com^

@@ -1,23 +1,11 @@
 !
 ! Title: TUR: Turkish Ad Hosts
 ! Description: Necessary hosts file to block tracking and possibly advertising networks in commonly used mobile apps (and possibly web pages) in Turkey.
+! Version: 1.0.14.59
 ! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
-! Last modified: 2024-05-12T07:05:25.092Z
+! Last modified: 2025-02-25T13:16:18.170Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
-!
-!
-! Source name: Turkish Ad Hosts
-! Source: https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/main/adguard/filter.txt
-!
-!
-! Title: Turkish-Ad-Hosts
-! Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
-! Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
-! License: GPLv3
-! Last modified: 2024-05-12T07:00:55.458Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 
 ||0.oldgyhogola.com^
@@ -132,6 +120,7 @@
 ||ads.exosrv.com^
 ||ads.facebook.com^
 ||ads.google.com^
+||ads.inmobi.com^
 ||ads.linkedin.com^
 ||ads.themoneytizer.com^
 ||ads.ndtv1.com^
@@ -170,6 +159,7 @@
 ||adserver.juicyads.com^
 ||adserver.unityads.unity3d.com^
 ||adserver-us.adtech.advertising.com^
+||adservfnt-eu.dsp-api.moloco.com^
 ||adservice.google.co.in^
 ||adservice.google.co.jp^
 ||adservice.google.com^
@@ -468,7 +458,6 @@
 ||cdn.cloudimagesb.com^
 ||cdn.confiant-integrations.net^
 ||cdn.convertbox.com^
-||cdn.cookielaw.org^
 ||cdn.dataroid.com^
 ||cdn.dimml.io^
 ||cdn.dokondigit.quest^
@@ -579,7 +568,6 @@
 ||certify-amp.alexametrics.com^
 ||certify-js.alexametrics.com^
 ||champagne.futurecdn.net^
-||chatserver15.comm100.io^
 ||childlikeform.com^
 ||ciqepxipgs.com^
 ||cis.schibsted.com^
@@ -657,6 +645,7 @@
 ||creativecdn.com^
 ||cresfpho2ntesepapillo3.com^
 ||crisistuesdayartillery.com^
+||cross-promo-provider.easybrain.com^
 ||crta.dailymail.co.uk^
 ||cs.admanmedia.com^
 ||cs.luckyorange.net^
@@ -995,9 +984,7 @@
 ||image6.pubmatic.com^
 ||image8.pubmatic.com^
 ||images.revcontent.com^
-||imasdk.googleapis.com^
 ||img.3633a.com^
-||img.ekstat.com^
 ||img.zemanta.com^
 ||impactserving.com^
 ||impression.link^
@@ -1011,7 +998,6 @@
 ||insights.algolia.io^
 ||insights.sitesearch360.com^
 ||instana.fibabanka.com.tr^
-||instant.page^
 ||intake-analytics.wikimedia.org^
 ||intake-logging.wikimedia.org^
 ||inv-nets.admixer.net^
@@ -1020,7 +1006,6 @@
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||ipac.ctnsnet.com^
-||ipcheck.tmgrup.com.tr^
 ||iplocation-api.wp.trt.com.tr^
 ||ipr.n11.com^
 ||ir-na.amazon-adsystem.com^
@@ -1121,7 +1106,6 @@
 ||luckyorange.com^
 ||m.addthis.com^
 ||m.addthisedge.com^
-||m.stripe.com^
 ||m1.nsimg.net^
 ||ml314.com^
 ||m2.nsimg.net^
@@ -1247,6 +1231,7 @@
 ||nitroscripts.com^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
+||noti-eu.adsmoloco.com^
 ||notix.io^
 ||ntm.netmera-web.com^
 ||ntvpforever.com^
@@ -1540,12 +1525,11 @@
 ||sdk.iad-05.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.fra-01.braze.eu^
-||sdk.poltio.com^
-||sdk.privacy-center.org^
 ||sdk.pulse.schibsted.com^
 ||sdk.sharethrough.com^
 ||sdk-api-v1.singular.net^
 ||sdk-events.inner-active.mobi^
+||sdkapi.dsp-api.moloco.com^
 ||sdkapi.netmera.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
