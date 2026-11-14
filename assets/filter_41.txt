@@ -1,12 +1,19 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.67.75
+! Version: 1.1.67.76
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-11-14T19:08:38.771Z
+! Last modified: 2026-11-14T20:10:01.545Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||com-numerbiletu132831031.sbs^
+||zakupy-ioo24hc.top^
+||polskimail.com^
+||weathered-pond-d08f.kelliekarl1521am4-1bd.workers.dev^
+||pk-transportujemy95317.cyou^
+||rugged-trek.shop^
+||whydabuddl.store^
 ||kavzorelium.shop^
 ||kyrosdwell.com^
 ||allegrolokalnie.pl-oqloszenie-kupteraz18373793732737910394.pl^
@@ -103978,6 +103985,7 @@
 ||biedronkastore.shop^
 ||xfwjt.com^
 ||s9dwxd.club^
+||www.believecy.sbs^
 ||caesarinnans.info^
 ||sandy-explore.com^
 ||glade-trek.com^
@@ -104618,6 +104626,7 @@
 ||jyskeusalel.top^
 ||nordicore.shop^
 ||qerolithan.info^
+||www.ryosale.shop^
 ||www.kwayculture.shop^
 ||deckstir.com^
 ||discountdeal-pl.shop^
@@ -104631,8 +104640,10 @@
 ||cimentofiyati.com^
 ||letile.baby^
 ||leadcoreunit.com^
+||www.biedronkaonlineshop.shop^
 ||indliope.com^
 ||primegaugebase.com^
+||www.biedromkao.shop^
 ||sepeton.net^
 ||pricedrop-pl.shop^
 ||bilattecbc.com^
@@ -104803,10 +104814,13 @@
 ||convergetoloris.com^
 ||albsinestoopars.top^
 ||havesdeal.shop^
+||www.outdoors-pl.shop^
 ||bernind.com^
 ||dynamo-pass.com^
 ||mangocollectioneu.shop^
 ||gagsrw628-jbnsac539.courseplane.su^
+||www.toolclearancesale.com^
+||www.bargainfurn.com^
 ||geoues.com^
 ||charge-vertex.com^
 ||volt-peak.com^
@@ -104855,49 +104869,3 @@
 ||www.sievonr.shop^
 ||istockitap.com^
 ||rapyhpl.shop^
-||uk-signal.com^
-||britain-chronicle.com^
-||ryosale.shop^
-||energy-anchor.com^
-||countaaerplottedeucaines.info^
-||valuesdeal.shop^
-||www.uvexvip.shop^
-||grupoboda.com^
-||parksidevip.shop^
-||finance98-non82.pro^
-||thepapercandidate.com^
-||intersubstitutabilitccies.info^
-||radiant-cog.com^
-||magazynpl.shop^
-||neutron-claim.com^
-||sxtez.com^
-||watchdealseu.shop^
-||table-et-chaises.website^
-||insegik.com^
-||allegrolokalnie.lokalna-ofera49.shop^
-||hokashop.com^
-||outdoors-pl.shop^
-||www.headtic.cyou^
-||odact.com^
-||maxinvestcom.com^
-||tech-pakistan.com^
-||cwqzp.com^
-||biedromkao.shop^
-||toolclearancesale.com^
-||bonussale.shop^
-||efurnisave.com^
-||bargainfurn.com^
-||biedronkaonlineshop.shop^
-||believecy.sbs^
-||slashsale.shop^
-||thinkonpattern.digital^
-||underdeal.shop^
-||slashdeal.shop^
-||bestmarket-pl.shop^
-||firecrystalscribe.com^
-||atmacatasarim.com^
-||www.marketdistrict.shop^
-||inpost.orderoi.bond^
-||fuse-shard.com^
-||moja-paczka.oiqqhe.icu^
-||shoes-ccceu.shop^
