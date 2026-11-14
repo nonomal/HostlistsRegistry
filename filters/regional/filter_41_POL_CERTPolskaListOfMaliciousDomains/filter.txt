@@ -1,12 +1,51 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.67.74
+! Version: 1.1.67.75
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-11-14T18:12:14.770Z
+! Last modified: 2026-11-14T19:08:38.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||kavzorelium.shop^
+||kyrosdwell.com^
+||allegrolokalnie.pl-oqloszenie-kupteraz18373793732737910394.pl^
+||booking-art.com^
+||dervexo.com^
+||renee-luxe.shop^
+||allegrolokalnie.6583994302.cfd^
+||possecircu.store^
+||pll453fds32433sd30d2340f0lk.shop^
+||eza7fe.largepv.pl^
+||zelmershop.shop^
+||brewold.com^
+||allegrolokalnie.jesienne-oferty-847282.cfd^
+||zelmeragq.shop^
+||bravolqerio.shop^
+||7584964793.cfd^
+||www.spotionline.site^
+||oferta-59530174.sbs^
+||inpost.paycore-my2.shop^
+||transakcja980391.sbs^
+||pl-36257358999ogloszenie02872996l7292.sbs^
+||kup-aukcja1743.lol^
+||pl-xbox-series-x-oferta2224.sbs^
+||bookingdirect.predrctgustspyemnts.com^
+||illpodkategoria832423.sbs^
+||questtendo.store^
+||indratempe.store^
+||fitodmonoc.store^
+||republinea.info^
+||cbcnewsd.top^
+||breakingless.pro^
+||noticialuz.pro^
+||xexevuvinonomo.life^
+||kaxixakazofokifivafu.life^
+||kifazoxurofalovinuva.life^
+||numuxefipuxavufafe.life^
+||pl-12389467a12.sbs^
+||oferta-3835.sbs^
+||dk-transportujemy927417.cyou^
 ||stylecollection.sbs^
 ||workcoveum.com^
 ||strausstock.shop^
@@ -103987,6 +104026,7 @@
 ||coreflowunit.com^
 ||brightwavenet.site^
 ||flowgaugebases.site^
+||www.erinperley.shop^
 ||eu-jyskhome.shop^
 ||stardustdump.pro^
 ||coconutshellcharcoalbriquettes.com^
@@ -104800,9 +104840,11 @@
 ||chelbruntmold.pro^
 ||svikplonderbraak.pro^
 ||amperes-peak.com^
+||www.davidbrown.shop^
 ||www.ryobtloios.top^
 ||musicalarts.shop^
 ||seccmitropics.info^
+||www.wildsale.shop^
 ||cerdailydose.com^
 ||urbanstridelab.com^
 ||2026parkside.shop^
@@ -104835,6 +104877,7 @@
 ||allegrolokalnie.lokalna-ofera49.shop^
 ||hokashop.com^
 ||outdoors-pl.shop^
+||www.headtic.cyou^
 ||odact.com^
 ||maxinvestcom.com^
 ||tech-pakistan.com^
@@ -104853,33 +104896,8 @@
 ||bestmarket-pl.shop^
 ||firecrystalscribe.com^
 ||atmacatasarim.com^
+||www.marketdistrict.shop^
 ||inpost.orderoi.bond^
 ||fuse-shard.com^
 ||moja-paczka.oiqqhe.icu^
 ||shoes-ccceu.shop^
-||superor.click^
-||erinperley.shop^
-||rachaelwalker.shop^
-||wildsale.shop^
-||savingsdeal.shop^
-||neo-sport.shop^
-||davidbrown.shop^
-||quentharoli.info^
-||lorthavemis.pro^
-||ophelarqint.info^
-||startingdeal.shop^
-||savemoredeal.shop^
-||carolsilva.shop^
-||headtic.cyou^
-||discountoutlet-pl.shop^
-||quant-pakistan.com^
-||vinted.verificationseller-order.click^
-||qzbay.com^
-||current-pad.com^
-||biedronkaoutlets.shop^
-||biedronkaoutlet.shop^
-||marketdistrict.shop^
-||gymglamourpl.shop^
-||paulthedogwhisperer.com^
-||dyno-light.com^
-||usstormwatch.net^
