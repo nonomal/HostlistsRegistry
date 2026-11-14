@@ -1,9 +1,9 @@
 !
 ! Title: AWAvenue Ads Rule
 ! Description: Use Adblock syntax to fight against various advertising SDKs in Android applications from the network level , prevent them from loading.
-! Version: 1.0.15.84
+! Version: 1.0.15.85
 ! Homepage: https://awavenue.top/
-! Last modified: 2026-11-14T15:09:00.978Z
+! Last modified: 2026-11-14T17:08:30.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -244,6 +244,7 @@
 ||api.touch-moblie.com^
 ||api5-normal-quic-lf.ixigua.com^
 ||apiyd.my91app.com^
+||apmplus.volces.com^
 ||app-measurement.com^
 ||appcfg.v.qq.com^
 ||applog-perf.uc.cn^
@@ -314,6 +315,7 @@
 ||click.liftoff.io^
 ||click.oneplus.cn^
 ||click4.chinaliftoff.io^
+||client-upload.cn-shanghai.log.aliyuncs.com^
 ||clog.miguvideo.com^
 ||cloooud.com^
 ||cn-api.anythinktech.com^
@@ -351,6 +353,7 @@
 ||dsp-x.jd.com^
 ||dsp.fcbox.com^
 ||dsplog-adnet.vivo.com.cn^
+||du-app.cn-hangzhou.log.aliyuncs.com^
 ||dualstack-logs.amap.com^
 ||dxp.baidu.com^
 ||dyp2p-ali.douyucdn.cn^
@@ -361,6 +364,7 @@
 ||ef-dongfeng.tanx.com^
 ||engine.dcad01.com^
 ||entry.baidu.com^
+||errnewlog.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
@@ -373,6 +377,7 @@
 ||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
+||fp-it.fengkongcloud.com^
 ||frontend-perf-service.e.kuaishou.com^
 ||fxgate.baidu.com^
 ||g-adnet.hiaiabc.com^
@@ -482,6 +487,7 @@
 ||kwpush.kuwo.cn^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
+||lf-event-manager.oceanengine.com^
 ||lh3.googleadsserving.cn^
 ||litchiads.com^
 ||live-api.hktvmall.com^
@@ -496,6 +502,7 @@
 ||log-api-mn.huxiu.com^
 ||log-api.huxiu.com^
 ||log-api.pangolin-sdk-toutiao.com^
+||log-auth.zztfly.com^
 ||log-report.com^
 ||log-sdk.gifshow.com^
 ||log-sdk.ksapisrv.com^
@@ -711,6 +718,8 @@
 ||service.changhong.upgrade2.huan.tv^
 ||service.vmos.cn^
 ||sf16-static.i18n-pglstatp.com^
+||shihuo-new.log.shihuocdn.cn^
+||shihuo.log.shihuocdn.cn^
 ||shouji.sogou.com^
 ||sigmob.com^
 ||skdisplay.jd.com^
@@ -817,6 +826,7 @@
 ||union-mlog.bigda.com^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||unityads.unity3d.com^
+||upc.zztfly.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
 ||update0.aiclk.com^

@@ -1,12 +1,22 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.67.72
+! Version: 1.1.67.73
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-11-14T16:10:56.096Z
+! Last modified: 2026-11-14T17:08:53.357Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||stylecollection.sbs^
+||workcoveum.com^
+||strausstock.shop^
+||novinapuls.pro^
+||pitbullflex.shop^
+||allegrolokalnie.89124902.top^
+||haverzundro.shop^
+||renee-promo.shop^
+||fgghjk.live^
+||poczta-polska.paycore-my3.shop^
 ||fashionavenue.sbs^
 ||conscaffas.store^
 ||rimarlasch.store^
@@ -103955,6 +103965,7 @@
 ||nbius.com^
 ||advance-victory.com^
 ||norzane.digital^
+||www.modirex.shop^
 ||lasportivaeur.sale^
 ||torvaniq.shop^
 ||budgetchoicepl.shop^
@@ -104668,10 +104679,12 @@
 ||gray-budget.com^
 ||trelopit.com^
 ||belqorinava24.top^
+||craftpent.taseenjunaid.com^
 ||polqano.shop^
 ||nivloro.shop^
 ||steady-income.com^
 ||norft.ydns.eu^
+||www.dailymarketplace.shop^
 ||sxetv.com^
 ||57-128-161-130.cprapid.com^
 ||cryptoaitax.net^
@@ -104707,6 +104720,7 @@
 ||fuel-burst.com^
 ||volt-mirror.com^
 ||glow-rift.com^
+||cleverchunk.topupgameonline.com^
 ||kbzlw.com^
 ||tuoei.com^
 ||jqsyx.com^
@@ -104906,58 +104920,3 @@
 ||allegro-lokalnie.103748234.lat^
 ||aiebilet.103748234.lat^
 ||72634823g023.lat^
-||xn--albilet-b9a.103748234.lat^
-||allegro.103748234.lat^
-||allebilet.103748234.lat^
-||pilotcube.com^
-||kmtip.com^
-||1lnpt5p1-2985.ed6cyi.casa^
-||allebilet.oier773r28g43-g34.lat^
-||allegrolokalne.oier773r28g43-g34.lat^
-||alebilet.oier773r28g43-g34.lat^
-||allegro.oier773r28g43-g34.lat^
-||aiebilet.oier773r28g43-g34.lat^
-||xn--albilet-b9a.oier773r28g43-g34.lat^
-||kelmavriona.info^
-||ynhdb.com^
-||ly-sy.com^
-||awytd.com^
-||escharotttic.info^
-||20193847.xyz^
-||modirex.shop^
-||volt-mosaic.com^
-||gerigetirmeduasi.com^
-||ppsxy.com^
-||outdoorsoutlet.shop^
-||ixoramelth.info^
-||2387428g923g2-f32.lat^
-||home-pl-panel.safeas.org^
-||dailymarketplace.shop^
-||topupgameonline.com^
-||throughfuture.info^
-||xpybk.com^
-||eurostra.shop^
-||chatlinguo.com^
-||alfouzancamp.com^
-||stepdesign.top^
-||taseenjunaid.com^
-||pramelovist.pro^
-||modestio.shop^
-||plvigoesete.com^
-||curren-gleam.com^
-||pelup.digital^
-||ravelmorthi.pro^
-||closedwork.click^
-||bucklelab.shop^
-||nicesticky.sbs^
-||www.zakupysuper.shop^
-||gymgirls.top^
-||xwxpt.net^
-||dzyjf.net^
-||amardoctor.info^
-||accidental-diet.net^
-||reserve.hblrlt.com^
-||verify-check.digital^
-||oferp7283501.lat^
-||835491.lat^
-||paczkapost.packwazkazlot24.sbs^

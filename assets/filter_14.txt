@@ -1,9 +1,9 @@
 !
 ! Title: POL: Polish filters for Pi-hole
 ! Description: Polish filters for Pi-hole.
-! Version: 1.0.15.24
+! Version: 1.0.15.25
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2026-11-14T11:09:03.251Z
+! Last modified: 2026-11-14T17:08:44.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -361,3 +361,23 @@
 ||stg.silk.caringyarn.pro^
 ||stg.coal.curiousbirch.mobi^
 ||stg.luck.parrotforest.biz^
+||stg.lox.naturalotter.info^
+||stg.jump.irisrainstorm.com^
+||stg.jazz.cricketleaf.com^
+||stg.dead.woodsunset.com^
+||stg.curl.mooseviolet.com^
+||stg.lava.joyouschalk.com^
+||stg.seal.excellentrobin.com^
+||stg.luck.helpfulavenue.com^
+||stg.tool.festivehorse.com^
+||stg.drug.cleverbasin.com^
+||stg.gym.bonsaidahlia.com^
+||stg.dash.vividbucket.com^
+||stg.noon.fernzenith.com^
+||stg.fat.caringcoyote.com^
+||stg.tuba.thankfulscarf.com^
+||stg.case.coolbonsai.com^
+||stg.fold.pinesandsoup.com^
+||stg.lid.loftilywhup.com^
+||stg.gown.wootwhenonly.com^
+||stg.rust.roundoddeven.com^
