@@ -1,12 +1,18 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.67.71
+! Version: 1.1.67.72
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-11-14T15:09:31.067Z
+! Last modified: 2026-11-14T16:10:56.096Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
+||fashionavenue.sbs^
+||conscaffas.store^
+||rimarlasch.store^
+||spippangol.store^
+||scalecente.store^
+||mcphastent.store^
 ||o-design.heteml.net^
 ||reneeszczecin.shop^
 ||now-13-11-26.shop^
@@ -104955,58 +104961,3 @@
 ||oferp7283501.lat^
 ||835491.lat^
 ||paczkapost.packwazkazlot24.sbs^
-||brockmailbox.com^
-||thisisplayable.com^
-||perlavontiq.top^
-||bagsofall.shop^
-||flash-quartz.com^
-||jnexus.com^
-||toranatural.com^
-||urbavio.shop^
-||finance91-et41.pro^
-||domlivo.shop^
-||llnpo7spl-go20.d4qhqs.qpon^
-||budzdablab.com^
-||perfectlypdx.com^
-||curautomate.com^
-||fb100028397928386-qwipzyjnvitjwkyvuwqfc9.vercel.app^
-||idle-threat.com^
-||neutrino-frost.com^
-||lookvero.shop^
-||summersole.shop^
-||ion-peak.com^
-||mirelto.shop^
-||euonlines.shop^
-||www.sterivo.shop^
-||walkingwardrobe.shop^
-||www.megapromocja.shop^
-||woolenwonder.shop^
-||fotosdevestidosdenovias.com^
-||bagtrace.shop^
-||zonvera.shop^
-||shoprune.shop^
-||uw9.r4qzhs.top^
-||opo127349h34.shop^
-||eurogallery.shop^
-||www.euromira.shop^
-||wyprzedaz24.shop^
-||eurovela.shop^
-||135-125-245-221.cprapid.com^
-||www.rabatyszybko.shop^
-||radiance-bridge.com^
-||xn--albilet-b9a.34823012h5.lat^
-||www.gym-glamourpl.club^
-||lintrio.shop^
-||zgymglamour.top^
-||kupello.shop^
-||www.homechoicepl.shop^
-||sharply-tuffy-547.hostmyhtml.com^
-||r-golstore.shop^
-||promista.shop^
-||r-golplonline.shop^
-||knh7gg8kda.lat^
-||allebilet.34823012h5.lat^
-||allegrolokalne.34823012h5.lat^
-||allegro-lokalnie.34823012h5.lat^
-||aiebilet.34823012h5.lat^
-||olx.34823012h5.lat^

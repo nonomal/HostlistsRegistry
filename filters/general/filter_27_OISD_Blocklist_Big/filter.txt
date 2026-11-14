@@ -1,9 +1,9 @@
 !
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
-! Version: 1.1.50.52
+! Version: 1.1.50.53
 ! Homepage: https://oisd.nl/
-! Last modified: 2026-11-14T15:08:48.775Z
+! Last modified: 2026-11-14T16:10:20.931Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -4407,7 +4407,6 @@
 ||4meme.com^
 ||4meme.org^
 ||4mfnews.blogspot.com^
-||4mhzgizyw28rfr.cfd^
 ||4mlhn1ocg4.com^
 ||4mm.site^
 ||4mp.xewp5et8izo2eq.cyou^
@@ -60771,7 +60770,6 @@
 ||diastannticmalformed.info^
 ||diasteam.itch.io^
 ||diawan.club^
-||diaxialseguingeyrant.cyou^
 ||diaz-axorix.net^
 ||diazaxorex.net^
 ||diazaxorion.net^
@@ -64628,7 +64626,6 @@
 ||drinksandtreasure.com^
 ||drinksbrash.com^
 ||drinksomecoffee.com^
-||drinkspitlikecrony.cyou^
 ||drinktastingservicefr.firebaseapp.com^
 ||drinktastingservicefr.web.app^
 ||drionpil.com^
@@ -84845,7 +84842,6 @@
 ||ginmo-mail.org^
 ||ginmomail.com^
 ||ginningsteri.com^
-||ginnyinfeoff.cfd^
 ||ginnymulberryincompetent.com^
 ||ginobernardi.com^
 ||ginolugli.com^
@@ -139396,7 +139392,6 @@
 ||olderidentify.com^
 ||olderouncedownstairs.com^
 ||oldersinner.com^
-||oldestnife.cyou^
 ||oldestteabrand.com^
 ||oldfashionedoffer.com^
 ||oldfast.com^
@@ -141936,7 +141931,6 @@
 ||oryndraxa.digital^
 ||oryndraxa.net^
 ||oryntrassai.click^
-||oryrebeat.com^
 ||oryvenqisai.net^
 ||oryvessa-qelmorin-ai.com^
 ||oryvessaqelmorintrade.com^
@@ -162163,7 +162157,6 @@
 ||reft44-1eaef.firebaseapp.com^
 ||reft44-1eaef.web.app^
 ||refugeeair.org^
-||refugespistol.com^
 ||refund-alert.com^
 ||refund-application.com^
 ||refund-ebok-pl.stackstaging.com^
@@ -167890,7 +167883,6 @@
 ||rvoklmavu.net^
 ||rvolkknctgbvy.site^
 ||rvpxfvzbbww.com^
-||rvq2qf3zjjppz4zcnh.rest^
 ||rvrl1srlq.com^
 ||rvrpushserv.com^
 ||rvrvqzbxqtmtz.online^
@@ -185757,7 +185749,6 @@
 ||suczki-mlode.blogspot.com^
 ||sud-verification.fr^
 ||sudanlist.com^
-||sudariaarmeria.cyou^
 ||sudariocontabilidade.com.br^
 ||sudaw.com^
 ||sudcom.org^
@@ -193100,7 +193091,6 @@
 ||thague.com^
 ||thai-like.net^
 ||thaigolfbooking.com^
-||thairmsnegated.cyou^
 ||thairsqojopzz.online^
 ||thaisilpa.com^
 ||thaivillagehouston.com^
@@ -206265,7 +206255,6 @@
 ||vanquoryndelftavix.net^
 ||vanrcoanza.in^
 ||vanscheers.com^
-||vansfeudeefemmes.cyou^
 ||vansfrance.fr^
 ||vanshlol.now.sh^
 ||vanssfrance.fr^
