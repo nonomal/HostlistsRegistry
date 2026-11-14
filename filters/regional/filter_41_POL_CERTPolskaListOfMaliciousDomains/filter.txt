@@ -1,9 +1,9 @@
 !
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
-! Version: 1.1.67.73
+! Version: 1.1.67.74
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2026-11-14T17:08:53.357Z
+! Last modified: 2026-11-14T18:12:14.770Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -103490,6 +103490,7 @@
 ||torqanu.shop^
 ||torlaniq.shop^
 ||civaiulcer.cyou^
+||www.sklepora.shop^
 ||alcyospanc.cyou^
 ||kasarapor.xyz^
 ||vinted.sellernew-verification.click^
@@ -104655,6 +104656,7 @@
 ||bigplusgroup.com^
 ||www.cityfusion.shop^
 ||barnwoodandco.com^
+||www.dailygallery.shop^
 ||druxaloria365.com^
 ||vinted.guardianappsecure80.cfd^
 ||snugavento.com^
@@ -104684,6 +104686,7 @@
 ||nivloro.shop^
 ||steady-income.com^
 ||norft.ydns.eu^
+||www.horsewarere.club^
 ||www.dailymarketplace.shop^
 ||sxetv.com^
 ||57-128-161-130.cprapid.com^
@@ -104880,43 +104883,3 @@
 ||paulthedogwhisperer.com^
 ||dyno-light.com^
 ||usstormwatch.net^
-||plainplate.shop^
-||snapstrap.shop^
-||bizwealthhealth.com^
-||aquabroadcastlane.com^
-||okazjezone.shop^
-||pilatesvallarat.com^
-||eurodealio.shop^
-||mirellio.shop^
-||a-unclick.net^
-||horsewarere.club^
-||topsklep.shop^
-||spark-mirror.com^
-||fresvani.shop^
-||norvethalix.pro^
-||saleshop24.shop^
-||carlbertelsen.com^
-||dailygallery.shop^
-||cervani.shop^
-||www.okazjexpress24.shop^
-||urbancentral.shop^
-||1305qwenrp.partnercenter-dataprocessinghub.me^
-||clovorivane.shop^
-||aeranierre.shop^
-||secureserviceweb.sviluppo.host^
-||branvello.shop^
-||sklepora.shop^
-||nzz-news.pro^
-||saglicakla.net^
-||circlejlisbon.friebers.com^
-||plottinkkess.info^
-||javenorqist.pro^
-||radiant-haze.com^
-||www.homedepotplus.shop^
-||9-160-105-68.cprapid.com^
-||meta-id19239202.invoice-ads-setting.com^
-||2598t93h-4531.lat^
-||allegrolokainie.34823012h5.lat^
-||allegro-lokalnie.103748234.lat^
-||aiebilet.103748234.lat^
-||72634823g023.lat^
